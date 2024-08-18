@@ -3,10 +3,10 @@ import pool from '../db/database.mjs';
 
 const router = Router();
 
-router.get('/conferencePaper', async (req, res) => {
+router.get('/journalPaper', async (req, res) => {
     try {
-        const conferencePaperResult = await pool.query('SELECT * FROM conference_paper');
-        res.json(conferencePaperResult.rows);
+        const journalPaperResult = await pool.query('select * from journal_paper');
+        res.json(journalPaperResult.rows);
     } catch (error) {
         console.error(error);
         res.status(500).json({ error: 'Internal Server Error' });

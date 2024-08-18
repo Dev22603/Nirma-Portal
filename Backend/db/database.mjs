@@ -13,4 +13,14 @@ const pool = new Pool({
     port: process.env.DB_PORT,
 });
 
+
+pool.query('SELECT NOW()', (err, res) => {
+    if (err) {
+        console.error('Error executing query', err.stack);
+    } else {
+        console.log('Database time:', res.rows[0]);
+    }
+});
+
+
 export default pool;
