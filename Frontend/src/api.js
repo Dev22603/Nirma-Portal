@@ -7,3 +7,6 @@ const api = axios.create({
 export const fetchCounts = () => api.get('/counts');
 export const fetchResearch = () => api.get('/researchPaper');
 export const fetchConferences = () => api.get('/conferencePaper');
+export const fetchbookChapters = () => api.get('/bookChapters');
+export const fetchJournal = () => api.get('/journalPaper');
+
