@@ -2,6 +2,7 @@ import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
 import countsRouter from './routers/counts.mjs';
+// import allRoutes from './routers/allRoutes.mjs';
 import conferencePaper from './routers/conferencePaper.mjs';
 import researchPaper from './routers/researchPaper.mjs';
 import journalPaper from './routers/journalPaper.mjs';
@@ -19,6 +20,7 @@ app.get('/', (req, res) => {
 });
 
 app.use('/api', countsRouter);
+// app.use('/api', allRoutes);
 app.use('/api', conferencePaper);
 app.use('/api', researchPaper);
 app.use('/api', journalPaper);

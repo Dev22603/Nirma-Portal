@@ -1,92 +1,130 @@
 import React, { useState, useEffect } from 'react';
-import { fetchCounts, fetchResearch, fetchConferences, fetchbookChapters, fetchJournal } from './api'; // Import functions for all data types
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { fetchCounts, fetchResearch, fetchConferences, fetchbookChapters } from './api';
 import TableView from './components/TableView';
+import JournalPapersWithFilter from './components/JournalPapersWithFilter'; // Import the new component
 
-function App() {
+function Home() {
     const [counts, setCounts] = useState({
         researchPaperCount: 0, 
         conferencePaperCount: 0,
-        bookChapterCount: 0,          // State for book chapters count
-        journalCount: 0                // State for journal papers count
+        bookChapterCount: 0,    
+        journalCount: 0    
     });
-
-    const [view, setView] = useState(null);
-    const [data, setData] = useState([]);
 
     useEffect(() => {
         const fetchData = async () => {
-            const response = await fetchCounts();  // Assuming fetchCounts now returns counts for all four types
-            setCounts(response.data);
-            console.log(response.data);
+            const response = await fetchCounts();
+            console.log('Counts Response:', response.data);  // Check if all counts are present
+            
+            // Make sure to use the exact keys from the API response
+            setCounts({
+                researchPaperCount: response.data.researchPaperCount,
+                conferencePaperCount: response.data.conferencePaperCount,
+                bookChapterCount: response.data.bookChaptersCount,  // Correct key
+                journalCount: response.data.journalPaperCount       // Correct key
+            });
         };
         fetchData();
     }, []);
-
-    const handleViewChange = async (view) => {
-        setView(view);
-        let response;
-
-        switch(view) {
-            case 'research':
-                response = await fetchResearch();
-                break;
-            case 'conferences':
-                response = await fetchConferences();
-                break;
-            case 'bookchapters':
-                response = await fetchbookChapters();
-                break;
-            case 'journal':
-                response = await fetchJournal();
-                break;
-            default:
-                response = { data: [] };
-        }
-
-        console.log(response);
-        setData(response.data);
-    };
 
     return (
         <div className="container mx-auto p-4">
             <h1 className="text-2xl font-bold mb-4">
                 Number of research papers: 
-                <a href="#" className="text-blue-500 underline" onClick={() => handleViewChange('research')}>
+                <Link to="/researchpaper" className="text-blue-500 underline">
                     {counts.researchPaperCount}
-                </a>
+                </Link>
             </h1>
             <h1 className="text-2xl font-bold mb-4">
                 Number of conference papers: 
-                <a href="#" className="text-blue-500 underline" onClick={() => handleViewChange('conferences')}>
+                <Link to="/conferencepaper" className="text-blue-500 underline">
                     {counts.conferencePaperCount}
-                </a>
+                </Link>
             </h1>
             <h1 className="text-2xl font-bold mb-4">
-                Number of booksChapters: 
-                <a href="#" className="text-blue-500 underline" onClick={() => handleViewChange('bookchapters')}>
+                Number of book chapters: 
+                <Link to="/bookchapters" className="text-blue-500 underline">
                     {counts.bookChapterCount}
-                </a>
+                </Link>
             </h1>
             <h1 className="text-2xl font-bold mb-4">
-                Number of JournalPapers: 
-                <a href="#" className="text-blue-500 underline" onClick={() => handleViewChange('journal')}>
+                Number of journal papers: 
+                <Link to="/journalpaper" className="text-blue-500 underline">
                     {counts.journalCount}
-                </a>
+                </Link>
             </h1>
-
-            {view && (
-                <div>
-                    <h2 className="text-xl font-semibold mb-4">
-                        {view === 'research' ? 'Research Papers' :
-                         view === 'conferences' ? 'Conference Papers' :
-                         view === 'bookchapters' ? 'Book Chapters' :
-                         'Journal Papers'}
-                    </h2>
-                    <TableView data={data} />
-                </div>
-            )}
         </div>
     );
 }
 
+function ResearchPapers() {
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const fetchData = async () => {
+            const response = await fetchResearch();
+            setData(response.data);
+        };
+        fetchData();
+    }, []);
+
+    return <TableView data={data} />;
+}
+
+function ConferencePapers() {
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const fetchData = async () => {
+            const response = await fetchConferences();
+            setData(response.data);
+        };
+        fetchData();
+    }, []);
+
+    return <TableView data={data} />;
+}
+
+function BookChapters() {
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const fetchData = async () => {
+            const response = await fetchbookChapters();
+            setData(response.data);
+        };
+        fetchData();
+    }, []);
+
+    return <TableView data={data} />;
+}
+
+function App() {
+    return (
+        <Router>
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/researchpaper" element={<ResearchPapers />} />
+                <Route path="/conferencepaper" element={<ConferencePapers />} />
+                <Route path="/bookchapters" element={<BookChapters />} />
+                <Route path="/journalpaper" element={<JournalPapersWithFilter />} /> {/* Use the new component */}
+            </Routes>
+        </Router>
+    );
+}
+
 export default App;
+
+
+
+
+
+
+
+
+
+
+
+
+
