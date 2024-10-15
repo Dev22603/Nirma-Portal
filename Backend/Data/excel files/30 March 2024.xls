@@ -1,0 +1,780 @@
+<div id="ContentPlaceHolder1_pnlReport">
+	<span>Nirma University<br />INSTITUTE OF TECHNOLOGY<br />Criteria - 3<br />3.4.5 Number of research papers per teacher in the Journals notified on UGC website <br />From Academic Year : 2023-24 to 2023-24</span>
+        <div class="col-lg-12 col-md-12">
+            <hr />
+        </div>
+        <div class="col-lg-12 col-md-12" style="width:100%; height:300px; overflow:scroll;">
+
+            <div>
+		<table class="rounded_corners" cellspacing="0" cellpadding="4" rules="cols" id="ContentPlaceHolder1_GridView1" style="color:Black;background-color:White;border-color:#DEDFDE;border-width:1px;border-style:None;width:100%;border-collapse:collapse;">
+			<tr style="color:White;background-color:#6B696B;font-weight:bold;">
+				<th scope="col">Download File</th><th scope="col">id</th><th scope="col">Paper Title</th><th scope="col">FileName</th><th scope="col">Name of Journal</th><th scope="col">JournalType</th><th scope="col">Impact Factor (Clarivate Analytics)</th><th scope="col">Impact Factor (Journal)</th><th scope="col">Year of Publication</th><th scope="col">Month of Publication</th><th scope="col">IndexIn</th><th scope="col">ISSN No</th><th scope="col">Voume No</th><th scope="col">Issue No</th><th scope="col">Page No</th><th scope="col">Author1</th><th scope="col">Author2</th><th scope="col">Author3</th><th scope="col">Author4</th><th scope="col">Author5</th><th scope="col">Author6</th><th scope="col">Author7</th><th scope="col">Author8</th><th scope="col">Author9</th><th scope="col">Author10</th><th scope="col">WebsiteJournalLink</th><th scope="col">ArticleLink</th><th scope="col">Institute Name</th><th scope="col">Department Name</th>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_0" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3532&amp;cid=383">Click Here</a>
+                        </td><td>32</td><td>DETERMINING AND MODELING OF DENSITY AND VISCOSITY OF BIODIESEL-DIESEL AND BIODIESEL-DIESEL-BUTANOL BLENDS</td><td>MHJ-PS-FIRST_PAGE.pdf</td><td>INTERNATIONAL JOURNAL OF CHEMICAL REACTOR ENGINEERING</td><td>International</td><td>1.600</td><td>1.600</td><td>2023</td><td>December</td><td>Scopus,Web of Science,EBSCO,</td><td>1542-6580</td><td>21</td><td>12</td><td>1561-1569</td><td>JOSHIPURA MILIND HIMKARBHAI</td><td>PARAG SAXENA</td><td>NIMISH SHAH</td><td>MADHU AGGARWAL</td><td>ANKUR DWIVEDI</td><td>SHIBU PILLAI</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.degruyter.com/journal/key/ijcre/html</td><td>https://www.degruyter.com/document/doi/10.1515/ijcre-2023-0004/html#APA</td><td>INSTITUTE OF TECHNOLOGY</td><td>CHEMICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_1" OnClick="Download_Click"></a>
+                        </td><td>41</td><td>IN-DEPTH ANALYSIS OF THE EFFECT OF CATALYSTS ON PLASMA TECHNOLOGIES FOR TREATMENT OF VARIOUS WASTES</td><td>&nbsp;</td><td>JOURNAL OF CLEANER PRODUCTION</td><td>International</td><td>8.700</td><td>8.700</td><td>2023</td><td>October</td><td>Scopus,Web of Science,</td><td>1095-8630</td><td>344</td><td>1</td><td>118335</td><td>KANGANA BHATT</td><td>SANJAY PATEL</td><td>DARSHIT S UPADHYAY</td><td>RAJESH N PATEL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/science/article/pii/S0301479723011234</td><td>https://www.sciencedirect.com/science/article/pii/S0301479723011234</td><td>INSTITUTE OF TECHNOLOGY</td><td>CHEMICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_2" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3556&amp;cid=383">Click Here</a>
+                        </td><td>43</td><td>BIOWASTE DERIVED UV–VIS-NIR ACTIVE Z-SCHEME CAO/MOS2 PHOTOCATALYST AS A LOW-COST, WASTE-TO-RESOURCE STRATEGY FOR RAPID WASTEWATER TREATMENT</td><td>first_page_Biowaste_derived_UV–Visible-NIR_active_Z-scheme_CaO_MoS2_photocatalyst_as_a_low-cost,_waste-to-resource_strategy_for_rapid_wastewater_treatment.pdf</td><td>JOURNAL OF PHOTOCHEMISTRY AND PHOTOBIOLOGY A: CHEMISTRY</td><td>International</td><td>4.300</td><td>4.300</td><td>2024</td><td>January</td><td>Scopus,Web of Science,</td><td>978-0-323-99861-1</td><td>446</td><td>-</td><td>115172</td><td>BORA LEENA VIJAYKUMAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/journal-of-photochemistry-and-photobiology-a-chemistry</td><td>https://www.sciencedirect.com/science/article/pii/S1010603023006378</td><td>INSTITUTE OF TECHNOLOGY</td><td>CHEMICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_3" OnClick="Download_Click"></a>
+                        </td><td>44</td><td>PREPARATION AND APPLICATION OF AG–CE–O COMPOSITE METAL OXIDE CATALYST IN CATALYTIC OZONATION FOR ELIMINATION OF REACTIVE BLACK 5 DYE FROM AQUEOUS MEDIA</td><td>&nbsp;</td><td>WATER SCIENCE AND ENGINEERING</td><td>International</td><td>4.000</td><td>4.000</td><td>2023</td><td>September</td><td>Scopus,</td><td>2405-8106</td><td>0</td><td>0</td><td>0</td><td>CHOKSHI NIKITA PIYUSHKUMAR</td><td>JAYESH RUPARELIA</td><td>SANDIP SHARMA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/water-science-and-engineering</td><td>https://doi.org/10.1016/j.wse.2023.08.005</td><td>INSTITUTE OF TECHNOLOGY</td><td>CHEMICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_4" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3655&amp;cid=383">Click Here</a>
+                        </td><td>58</td><td>EFFECT OF OPERATING PARAMETERS ON O3, O3/UV, O3/UV/PS PROCESS USING BUBBLE COLUMN REACTOR FOR DEGRADATION OF REACTIVE DYES</td><td>Sharma_et_al_2023_first_page.pdf</td><td>JOURNAL OF THE INSTITUTION OF ENGINEERS (INDIA): SERIES A</td><td>International</td><td>0.323</td><td>0.000</td><td>2023</td><td>September</td><td>Scopus,Web of Science,</td><td>2250-2157</td><td>104</td><td>1</td><td>565–578</td><td>SHARMA S</td><td>CHOKSHI N</td><td>RUPARELIA JAYESH PRABHUDAS</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/40030</td><td>https://link.springer.com/article/10.1007/s40030-023-00735-8</td><td>INSTITUTE OF TECHNOLOGY</td><td>CHEMICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_5" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3795&amp;cid=383">Click Here</a>
+                        </td><td>103</td><td>EXPERIMENTAL STUDIES ON RENEWABLE HYDROGEN PRODUCTION BY STEAM REFORMING OF GLYCEROL OVER ZIRCONIA PROMOTED ON NI/AL 2 O 3 CATALYST</td><td>Paper.pdf</td><td>INTERNATIONAL JOURNAL OF CHEMICAL REACTOR ENGINEERING</td><td>International</td><td>1.600</td><td>1.600</td><td>2023</td><td>December</td><td>Scopus,</td><td>1542-6580</td><td>22</td><td>1</td><td>87-95</td><td>NARASIMHA REDDY RAVURU</td><td>SANJAY PATEL</td><td>AMIT KUMAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.degruyter.com/journal/key/ijcre/html?lang=en</td><td>https://www.degruyter.com/document/doi/10.1515/ijcre-2023-0002/html?lang=en</td><td>INSTITUTE OF TECHNOLOGY</td><td>CHEMICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_6" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3849&amp;cid=383">Click Here</a>
+                        </td><td>112</td><td>TREATMENT OF WASTE USING WASTE-DERIVED MATERIALS AND FREE ENERGY: A PRACTICAL CONCEPT OF CIRCULAR-ECONOMY</td><td>Page_1.pdf</td><td>SUSTAINABLE CHEMISTRY AND PHARMACY</td><td>International</td><td>6.000</td><td>6.000</td><td>2024</td><td>February</td><td>Scopus,Web of Science,</td><td>2352-5541</td><td>37</td><td>1</td><td>101341</td><td>BORA LEENA VIJAYKUMAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/sustainable-chemistry-and-pharmacy</td><td>https://www.sciencedirect.com/science/article/abs/pii/S2352554123003753</td><td>INSTITUTE OF TECHNOLOGY</td><td>CHEMICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_7" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3850&amp;cid=383">Click Here</a>
+                        </td><td>113</td><td>INTENSIFICATION STRATEGIES OF SOLAR PHOTOCATALYTIC DISINFECTION-A REVIEW</td><td>Intensification_strategies_of_solar_photocatalytic_disinfection_–_A_review.pdf</td><td>INORGANIC CHEMISTRY COMMUNICATIONS</td><td>International</td><td>4.500</td><td>4.500</td><td>2023</td><td>December</td><td>Scopus,Web of Science,</td><td>1387-7003</td><td>157</td><td>1</td><td>111292</td><td>BORA LEENA VIJAYKUMAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/inorganic-chemistry-communications</td><td>https://www.sciencedirect.com/science/article/abs/pii/S1387700323009048</td><td>INSTITUTE OF TECHNOLOGY</td><td>CHEMICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_8" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3851&amp;cid=383">Click Here</a>
+                        </td><td>114</td><td>VALIDATING EXPERIMENTAL DATA FOR ATTENUATION COEFFICIENTS OF DEVELOPED POLYMER COMPOSITES IN SHIELDING APPLICATIONS THROUGH MONTE CARLO SIMULATION</td><td>9_Monte_carlo_Nov_23.pdf</td><td>INTERNATIONAL JOURNAL OF CHEMICAL REACTOR ENGINEERING</td><td>International</td><td>1.636</td><td>1.600</td><td>2024</td><td>January</td><td>Scopus,Web of Science,EBSCO,</td><td>1542-6580</td><td>22</td><td>1</td><td>79-85</td><td>SAIYAD MAMTA MAINAK</td><td>NIMISH SHAH</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.degruyter.com/journal/key/ijcre/html</td><td>https://www.degruyter.com/document/doi/10.1515/ijcre-2022-0235/html</td><td>INSTITUTE OF TECHNOLOGY</td><td>CHEMICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_9" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3852&amp;cid=383">Click Here</a>
+                        </td><td>115</td><td>ANAEROBIC TREATMENT OF REAL DYE WASTEWATER USING A MODIFIED INTERNAL CIRCULATION REACTOR</td><td>ASCE.pdf</td><td>JOURNAL OF ENVIRONMENTAL ENGINEERING (UNITED STATES)</td><td>International</td><td>2.400</td><td>2.400</td><td>2024</td><td>January</td><td>Scopus,</td><td>1943-7870</td><td>150</td><td>1</td><td>04023092</td><td>RUPARELIA JAYESH PRABHUDAS</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ascelibrary.org/journal/joeedu</td><td>https://ascelibrary.org/doi/full/10.1061/JOEEDU.EEENG-7436?casa_token=cMWlpBwM9rEAAAAA:8gCqA-1bbuKCW-VMxsdZ1j_dO_Ga6KvWRzRvG54QPkbsnDAi7_gpXjtxVztudADqGiUCBKnqrrA</td><td>INSTITUTE OF TECHNOLOGY</td><td>CHEMICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_10" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3853&amp;cid=383">Click Here</a>
+                        </td><td>116</td><td>EXPERIMENTAL STUDIES ON RENEWABLE HYDROGEN PRODUCTION BY STEAM REFORMING OF GLYCEROL OVER ZIRCONIA PROMOTED ON NI/AL2O3 CATALYST</td><td>First_page_of_IJCRE.pdf</td><td>INTERNATIONAL JOURNAL OF CHEMICAL REACTOR ENGINEERING</td><td>International</td><td>1.600</td><td>1.600</td><td>2023</td><td>December</td><td>Scopus,Web of Science,</td><td>1542-6580</td><td>22</td><td>1</td><td>87-95</td><td>NARASHIMHA RAVARU REDDY</td><td>SANJAY PATEL</td><td>AMIT KUMAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.degruyter.com/journal/key/ijcre/html?lang=en</td><td>https://www.degruyter.com/document/doi/10.1515/ijcre-2023-0002/html?lang=en</td><td>INSTITUTE OF TECHNOLOGY</td><td>CHEMICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_11" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3808&amp;cid=383">Click Here</a>
+                        </td><td>107</td><td>THE INTEGRATIVE APPROACH OF LEARNING CHEMICAL ENGINEERING THERMODYNAMICS BY USING SIMULATION-BASED EXERCISES</td><td>First_ThreePage_EduChE_KSMHJ.pdf</td><td>EDUCATION FOR CHEMICAL ENGINEERS</td><td>International</td><td>3.900</td><td>3.900</td><td>2023</td><td>October</td><td>Scopus,Web of Science,</td><td>17497728</td><td>45</td><td>00</td><td>122-129</td><td>JOSHIPURA MILIND HIMKARBHAI</td><td>KRUNAL SUTHAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/education-for-chemical-engineers</td><td>https://www.scopus.com/record/display.uri?eid=2-s2.0-85171862136&amp;origin=resultslist</td><td>INSTITUTE OF TECHNOLOGY</td><td>CHEMICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_12" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3591&amp;cid=383">Click Here</a>
+                        </td><td>47</td><td>SOIL EROSION ASSESSMENT BY RUSLE, GOOGLE EARTH ENGINE, AND GEOSPATIAL TECHNIQUES OVER REL RIVER WATERSHED, GUJARAT, INDIA</td><td>Land_Use_Land_Cover_Classification_for_REL_River_Using_Machine_Learning_Techniques.pdf</td><td>WATER CONSERVATION  SCIENCE AND ENGINEERING</td><td>International</td><td>0.000</td><td>3.000</td><td>2023</td><td>October</td><td>Scopus,Web of Science,EBSCO,UGC/Care List,</td><td>2364-5687</td><td>8</td><td>-</td><td>49</td><td>JODHANI KEVAL HARESHBHAI</td><td>DHRUVESH PATEL</td><td>N MADHAVAN</td><td>SUDHIR KUMAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://doi.org/10.1007/s41101-023-00223-x</td><td>https://doi.org/10.1007/s41101-023-00223-x</td><td>INSTITUTE OF TECHNOLOGY</td><td>CIVIL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_13" OnClick="Download_Click"></a>
+                        </td><td>48</td><td>SEISMIC BEHAVIOR ANALYSIS OF REINFORCED CONCRETE BUILDINGS WITH COUPLED IRREGULARITIES</td><td>&nbsp;</td><td>THE IUP JOURNAL OF STRUCTURAL ENGINEERING</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>July</td><td>EBSCO,</td><td>0974-6528</td><td>16</td><td>3</td><td>1-17</td><td>PUROHIT SHARADKUMAR PURANAND</td><td>JHANVI M. SUTHAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://iupindia.in/Structural_Engineering.asp</td><td>https://www.iupindia.in/0723/Structural%20Engineering/Structural_Engineering.asp?mag=http://www.iupindia.in/0723/Structural%20Engineering/Structural_Engineering_sub.asp</td><td>INSTITUTE OF TECHNOLOGY</td><td>CIVIL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_14" OnClick="Download_Click"></a>
+                        </td><td>3</td><td>A COMPREHENSIVE MADM BASED APPROACH FOR EVALUATING WALKABILITY OF A BUSY MARKET AREA USING GRA AND COPRAS: A CASE STUDY OF AMINABAD, LUCKNOW</td><td>&nbsp;</td><td>ADVANCES IN TRANSPORTATION STUDIES</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>July</td><td>Scopus,</td><td>1824-5463</td><td>NA</td><td>60</td><td>107-124</td><td>HAROON RASHEED KHAN</td><td>MOKADDES ALI AHMED</td><td>MANISH DUTTA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Ahead of Publication</td><td>NA</td><td>INSTITUTE OF TECHNOLOGY</td><td>CIVIL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_15" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3437&amp;cid=383">Click Here</a>
+                        </td><td>19</td><td>QUANTUM MACHINE LEARNING-BASED FRAMEWORK TO DETECT HEART FAILURES IN HEALTHCARE 4.0</td><td>1._Quantum_machine_learning-based_framework_to_detect_heart_failures_in_Healthcare_4.0.pdf</td><td>SOFTWARE: PRACTICE AND EXPERIENCE</td><td>International</td><td>3.500</td><td>3.500</td><td>2023</td><td>September</td><td>Scopus,Web of Science,</td><td>1097-024X</td><td>EARLY ACESS</td><td>EARLY ACESS</td><td>1-18</td><td>MANUSHI MUNSHI</td><td>GUPTA RAJESH</td><td>NILESH KUMAR JADAV</td><td>ZDZISLAW POLKOWSKI</td><td>TANWAR SUDEEP JANARDHAN</td><td>FAYEZ ALQAHTANI</td><td>WAEL SAID</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/1097024x</td><td>https://onlinelibrary.wiley.com/doi/10.1002/spe.3264</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_16" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3438&amp;cid=383">Click Here</a>
+                        </td><td>20</td><td>BLOCKCHAIN-BASED SECURE VOTING MECHANISM UNDERLYING 5G NETWORK: A SMART CONTRACT APPROACH</td><td>2._Blockchain-Based_Secure_Voting_Mechanism_Underlying_5G_Network_A_Smart_Contract_Approach.pdf</td><td>IEEE ACCESS</td><td>International</td><td>3.900</td><td>3.900</td><td>2023</td><td>July</td><td>Scopus,Web of Science,</td><td>2169-3536</td><td>11</td><td>NA</td><td>76537 - 76550</td><td>SACHI CHAUDHARY</td><td>SHAIL SHAH</td><td>RIYA KAKKAR</td><td>GUPTA RAJESH</td><td>ABDULATIF ALABDULATIF</td><td>TANWAR SUDEEP JANARDHAN</td><td>GULSHAN SHARMA</td><td>PITSHOU N. BOKORO</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639</td><td>https://ieeexplore.ieee.org/document/10188663</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_17" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3439&amp;cid=383">Click Here</a>
+                        </td><td>21</td><td>CLASSIFICATION OF POTENTIALLY HAZARDOUS ASTEROIDS USING SUPERVISED QUANTUM MACHINE LEARNING</td><td>3._Classification_of_Potentially_Hazardous_Asteroids_Using_Supervised_Quantum_Machine_Learning.pdf</td><td>IEEE ACCESS</td><td>International</td><td>3.900</td><td>3.900</td><td>2023</td><td>July</td><td>Scopus,Web of Science,</td><td>2169-3536</td><td>11</td><td>NA</td><td>75829 - 75848</td><td>RUSHIR BHAVSAR</td><td>NILESH KUMAR JADAV</td><td>UMESH BODKHE</td><td>GUPTA RAJESH</td><td>TANWAR SUDEEP JANARDHAN</td><td>GULSHAN SHARMA</td><td>PITSHOU N. BOKORO</td><td>RAVI SHARMA</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639</td><td>https://ieeexplore.ieee.org/document/10188662</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_18" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3503&amp;cid=383">Click Here</a>
+                        </td><td>22</td><td>HYBRID BEAMFORMING IN MASSIVE MIMO FOR NEXT-GENERATION COMMUNICATION TECHNOLOGY</td><td>48.pdf</td><td>SENSORS, MDPI</td><td>International</td><td>3.900</td><td>3.900</td><td>2023</td><td>August</td><td>Scopus,Web of Science,</td><td>1424-8220</td><td>23</td><td>16</td><td>1-13</td><td>SHAHID HAMID</td><td>SHAKTI RAJ CHOPRA</td><td>AKHIL GUPTA</td><td>SUDEEP TANWAR</td><td>BOGDAN CRISTIAN FLOREA</td><td>DRAGOS DANIEL TARALUNGA</td><td>OSAMA ALFARRAJ</td><td>AHMED M. SHEHATA</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.mdpi.com/journal/sensors</td><td>https://www.mdpi.com/1424-8220/23/16/7294</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_19" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3504&amp;cid=383">Click Here</a>
+                        </td><td>23</td><td>INVESTIGATING UAV-BASED APPLICATIONS IN INDOOR–OUTDOOR SPORTS STADIUMS AND OPEN-AIR GATHERINGS FOR DIFFERENT INTERFERENCE CONDITIONS BEYOND 5G NETWORKS</td><td>49.pdf</td><td>SENSORS, MDPI</td><td>International</td><td>3.900</td><td>3.900</td><td>2023</td><td>July</td><td>Scopus,Web of Science,</td><td>1424-8220</td><td>23</td><td>15</td><td>1-19</td><td>AKHIL GUPTA</td><td>PRAKHAR SAINI</td><td>BANALA SHARATH TEJA</td><td>GIDDALURU SHIVA DURGESH</td><td>SHOURABH KUMAR MISHRA</td><td>ANJANI KUMAR YADAV</td><td>SUDEEP TANWAR</td><td>FAYEZ ALQAHTANI</td><td>MARIA SIMONA RABOACA</td><td>WAEL SAID</td><td>https://www.mdpi.com/journal/sensors</td><td>https://www.mdpi.com/1424-8220/23/15/6721</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_20" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3505&amp;cid=383">Click Here</a>
+                        </td><td>24</td><td>SELECTION OF BEST MACHINE LEARNING MODEL TO PREDICT DELAY IN PASSENGER AIRLINES</td><td>50.pdf</td><td>IEEE ACCESS</td><td>International</td><td>3.900</td><td>3.900</td><td>2023</td><td>July</td><td>Scopus,Web of Science,</td><td>2169-3536</td><td>11</td><td>-</td><td>79673 - 79683</td><td>RAVI KOTHAR</td><td>RIYA KAKKAR</td><td>SMITA AGRAWAL</td><td>PARITA OZA</td><td>SUDEEP TANWAR</td><td>BHARAT JAYASWAL</td><td>RAVI SHARMA</td><td>GULSHAN SHARMA</td><td>PITSHOU N. BOKORO</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639</td><td>https://ieeexplore.ieee.org/abstract/document/10194905</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_21" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3520&amp;cid=383">Click Here</a>
+                        </td><td>25</td><td>ASPECT BASED SENTIMENT ANALYSIS USING DEEP LEARNING APPROACHES: A SURVEY</td><td>Paper1.pdf</td><td>COMPUTER SCIENCE REVIEW</td><td>International</td><td>12.900</td><td>12.900</td><td>2023</td><td>August</td><td>Scopus,Web of Science,</td><td>1574-0137</td><td>49</td><td>100576</td><td>NIL</td><td>GANPAT SINGH CHAUHAN</td><td>RAVI NAHTA</td><td>YOGESH KUMAR MEENA</td><td>DINESH GOPALANI</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/computer-science-review</td><td>https://www.sciencedirect.com/science/article/pii/S1574013723000436</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_22" OnClick="Download_Click"></a>
+                        </td><td>30</td><td>EVALUATING THE IGRAPH COMMUNITY DETECTION ALGORITHMS ON DIFFERENT REAL NETWORKS</td><td>&nbsp;</td><td>SCALABLE COMPUTING: PRACTICE AND EXPERIENCE</td><td>International</td><td>1.100</td><td>1.100</td><td>2023</td><td>July</td><td>Scopus,Web of Science,</td><td>1895-1767</td><td>24</td><td>2</td><td>173-180</td><td>OZA PARITA RAJIV</td><td>SMITA AGRAWAL</td><td>DHRUV RAVALIYA</td><td>RIYA KAKKAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.scpe.org/index.php/scpe</td><td>https://scpe.org/index.php/scpe/article/view/2102</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_23" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3530&amp;cid=383">Click Here</a>
+                        </td><td>31</td><td>METAHATE: AI-BASED HATE SPEECH DETECTION FOR SECURED ONLINE GAMING IN METAVERSE USING BLOCKCHAIN</td><td>MetaHate_Wiley.pdf</td><td>SECURITY AND PRIVACY, WILEY</td><td>International</td><td>1.900</td><td>1.900</td><td>2023</td><td>September</td><td>Scopus,Web of Science,</td><td>2475-6725</td><td>EARLY ACCESS</td><td>EARLY ACCESS</td><td>EARLY ACCESS</td><td>HARSHIL SANGHVI</td><td>RUSHIR BHAVSAR</td><td>VINI HUNDLANI</td><td>LATA GOHIL</td><td>TARJNI VYAS</td><td>ANUJA NAIR</td><td>SHIVANI DESAI</td><td>NILESH KUMAR JADAV</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/24756725</td><td>https://onlinelibrary.wiley.com/doi/epdf/10.1002/spy2.343</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_24" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3536&amp;cid=383">Click Here</a>
+                        </td><td>36</td><td>A NOVEL MULTICLASS CLASSIFICATION BASED APPROACH FOR PLAYBACK ATTACK DETECTION IN SPEAKER VERIFICATION SYSTEMS</td><td>shm2023.pdf</td><td>JOURNAL OF AMBIENT INTELLIGENCE AND HUMANIZED COMPUTING</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>September</td><td>Scopus,EBSCO,UGC/Care List,</td><td>1868-5145</td><td>NOT YET ASSIGNED</td><td>NOT YET ASSIGNED</td><td>1-12</td><td>MANKAD SAPAN HARESH</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/12652/</td><td>https://link.springer.com/article/10.1007/s12652-023-04684-9</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_25" OnClick="Download_Click"></a>
+                        </td><td>37</td><td>SCALABLE BIG EARTH OBSERVATION DATA MINING ALGORITHMS: A REVIEW</td><td>&nbsp;</td><td>EARTH SCIENCE INFORMATICS</td><td>International</td><td>2.800</td><td>2.800</td><td>2023</td><td>August</td><td>Scopus,Web of Science,</td><td>1865-0481</td><td>16</td><td>-</td><td>1993-2016</td><td>NEHA SISODIYA</td><td>NITANT DUBE</td><td>OM PRAKASH</td><td>PRIYANK THAKKAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/12145</td><td>https://link.springer.com/article/10.1007/s12145-023-01032-5</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_26" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3408&amp;cid=383">Click Here</a>
+                        </td><td>12</td><td>GRAPH-BASED EXTRACTIVE TEXT SUMMARIZATION SENTENCE SCORING SCHEME FOR BIG DATA APPLICATIONS</td><td>information-14-00472_1.pdf</td><td>INFORMATION</td><td>International</td><td>3.100</td><td>3.100</td><td>2023</td><td>August</td><td>Scopus,Web of Science,</td><td>2478-2489</td><td>14</td><td>9</td><td>1-28</td><td>VERMA JAIPRAKASH VINODKUMAR</td><td>SHIR BHARGAV</td><td>MADHURI BHAVSAR</td><td>PRONAYA BHATTACHARYA</td><td>ALI BOSTANI</td><td>SUBRATA CHOWDHURY</td><td>JULIAN WEBBER</td><td>ABOLFAZL MEHBODNIYA</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.mdpi.com/journal/information/about#:~:text=Information%20(ISSN%202078%2D2489),research%20papers%20and%20short%20communications.</td><td>https://www.mdpi.com/2078-2489/14/9/472</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_27" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3410&amp;cid=383">Click Here</a>
+                        </td><td>13</td><td>AN ENHANCED DIAGNOSIS OF MONKEYPOX DISEASE USING DEEP LEARNING AND A NOVEL ATTENTION MODEL SENET ON DIVERSIFIED DATASET</td><td>monkeypox.png</td><td>MULTIMODAL TECHNOLOGIES AND INTERACTION</td><td>International</td><td>4.300</td><td>2.500</td><td>2023</td><td>July</td><td>Scopus,Web of Science,EBSCO,UGC/Care List,Others,</td><td>2414-4088</td><td>7</td><td>7</td><td>75-90</td><td>SHIVANGI SURATI</td><td>HIMANI TRIVEDI</td><td>SHRIMALI BELA</td><td>CHINTAN BHATT</td><td>CARLOS M. TRAVIESO-GONZ&#193;LEZ</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.mdpi.com/journal/mti/indexing</td><td>https://doi.org/10.3390/mti7080075</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_28" OnClick="Download_Click"></a>
+                        </td><td>14</td><td>DETECTION OF TRAFFIC RULE VIOLATION IN UNIVERSITY CAMPUS USING DEEP LEARNING MODEL</td><td>&nbsp;</td><td>INTERNATIONAL JOURNAL OF SYSTEM ASSURANCE ENGINEERING AND MANAGEMENT</td><td>International</td><td>2.000</td><td>2.000</td><td>2023</td><td>August</td><td>Scopus,</td><td>0976-4348</td><td>0</td><td>0</td><td>&nbsp;</td><td>POOJA CHATURVEDI</td><td>KRUTI LAVINGIA</td><td>GAURANG RAVAL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/13198</td><td>https://link.springer.com/article/10.1007/s13198-023-02107-8</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_29" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3404&amp;cid=383">Click Here</a>
+                        </td><td>10</td><td>UNLEASHING THE POWER OF SDN AND GNN FOR NETWORK ANOMALY DETECTION: STATE-OF-THE-ART, CHALLENGES, AND FUTURE DIRECTIONS</td><td>Security_and_Privacy.pdf</td><td>SECURITY AND PRIVACY</td><td>International</td><td>1.900</td><td>1.900</td><td>2023</td><td>July</td><td>Web of Science,</td><td>2475-6725</td><td>E337</td><td>E337</td><td>&nbsp;</td><td>ARCHAN DADHANIA</td><td>JITENDRA BHATIA</td><td>RACHANA MEHTA</td><td>SUDEEP TANWAR</td><td>RAVI SHARMA</td><td>AMIT VERMA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/24756725</td><td>https://onlinelibrary.wiley.com/doi/10.1002/spy2.337</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_30" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3617&amp;cid=383">Click Here</a>
+                        </td><td>53</td><td>LIGHTBLOCKS: A TRUSTED LIGHTWEIGHT SIGNCRYPTION AND CONSENSUS SCHEME FOR INDUSTRIAL IOT ECOSYSTEMS</td><td>LightBlocks__A_trusted_lightweight_signcryption_and_consensus_scheme_for_industrial_IoT_ecosystems.pdf</td><td>COMPUTER STANDARDS &amp; INTERFACES</td><td>International</td><td>5.000</td><td>5.000</td><td>2023</td><td>August</td><td>Scopus,Web of Science,</td><td>0920-5489</td><td>88</td><td>2023</td><td>103785</td><td>PRONAYA BHATTACHARYA</td><td>AMOD KUMAR TIWARI</td><td>ASHWIN VERMA</td><td>ABDULATIF ALABDULATIF</td><td>SUDEEP TANWAR</td><td>RAVI SHARMA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/computer-standards-and-interfaces</td><td>https://www.sciencedirect.com/science/article/pii/S0920548923000661</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_31" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3620&amp;cid=383">Click Here</a>
+                        </td><td>54</td><td>EEG-BASED BIOMETRIC AUTHENTICATION SYSTEM USING CONVOLUTIONAL NEURAL NETWORK FOR MILITARY APPLICATIONS</td><td>EEG.pdf</td><td>SECURITY AND PRIVACY, WILEY</td><td>International</td><td>1.900</td><td>1.900</td><td>2023</td><td>October</td><td>Scopus,Web of Science,</td><td>2475-6725</td><td>-</td><td>-</td><td>1-25</td><td>HIMANSHU VADHER</td><td>PAL PATEL</td><td>ANUJA NAIR</td><td>TARJNI VYAS</td><td>SHIVANI DESAI</td><td>LATA GOHIL</td><td>SUDEEP TANWAR</td><td>DEEPAK GARG</td><td>ANUPAM SINGH</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/24756725</td><td>https://onlinelibrary.wiley.com/doi/abs/10.1002/spy2.345</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_32" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3534&amp;cid=383">Click Here</a>
+                        </td><td>34</td><td>DETECTION OF TRAFFIC RULE VIOLATION IN UNIVERSITY CAMPUS USING DEEP LEARNING MODEL</td><td>paper_1st_page.png</td><td>INTERNATIONAL JOURNAL OF SYSTEM ASSURANCE ENGINEERING AND MANAGEMENT</td><td>International</td><td>2.000</td><td>2.000</td><td>2023</td><td>August</td><td>Scopus,Web of Science,</td><td>0976-4348</td><td>1</td><td>1</td><td>1-19</td><td>LAVINGIA KRUTI RAJESH</td><td>POOJA CHATURVEDI</td><td>GAURANG RAVAL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/13198</td><td>https://link.springer.com/article/10.1007/s13198-023-02107-8#article-info</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_33" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3599&amp;cid=383">Click Here</a>
+                        </td><td>51</td><td>F-LSTM: FEDERATED LEARNING-BASED LSTM FRAMEWORK FOR CRYPTOCURRENCY PRICE PREDICTION</td><td>JJ1.pdf</td><td>AIMS - ELECTRONIC RESEARCH ARCHIVE</td><td>International</td><td>0.800</td><td>0.000</td><td>2023</td><td>October</td><td>Scopus,Web of Science,</td><td>2688-1594</td><td>31</td><td>10</td><td>6525-6551</td><td>NIHAR PATEL</td><td>NAKUL VASANI</td><td>SUDEEP TANWAR</td><td>NILESH KUMAR JADAV</td><td>RAJESH GUPTA</td><td>ZDZISLAW POLKOWSKI</td><td>FAYEZ ALQAHTAN</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://www.aimspress.com/</td><td>http://www.aimspress.com/article/doi/10.3934/era.2023330</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_34" OnClick="Download_Click"></a>
+                        </td><td>66</td><td>PREDICTIVE MAINTENANCE SYSTEM FOR ROTATING MACHINERY ONBOARD SHIPS FOR DETECTING PERFORMANCE DEGRADATION</td><td>&nbsp;</td><td>SCALABLE COMPUTING: PRACTICE AND EXPERIENCE</td><td>International</td><td>0.300</td><td>0.300</td><td>2023</td><td>November</td><td>Scopus,Web of Science,</td><td>1895-1767</td><td>24</td><td>4</td><td>1231-1240</td><td>SMTA AGARWAL</td><td>SWATI JAIN</td><td>RAVI SINGH</td><td>KASHYAP KASHYAP</td><td>PRAKRUT CHAUHAN</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.scpe.org/index.php/scpe/about</td><td>https://www.scpe.org/index.php/scpe/article/view/2016</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_35" OnClick="Download_Click"></a>
+                        </td><td>67</td><td>A PIPELINED ARCHITECTURE FOR ACREAGE ESTIMATION USING DEEP LEANING AND SPECTRAL IMAGE</td><td>&nbsp;</td><td>INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>September</td><td>&nbsp;</td><td>4427-4435</td><td>15</td><td>4</td><td>4427–4435</td><td>ANITHA MODI</td><td>JAIN SWATI MANISH</td><td>PRIYANKA SHARMA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://link.springer.com/journal/41870</td><td>https://link.springer.com/article/10.1007/s41870-023-01410-8</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_36" OnClick="Download_Click"></a>
+                        </td><td>68</td><td>A COMPREHENSIVE ANALYSIS TOWARDS EXPLORING THE PROMISES OF AI-RELATED APPROACHES IN AUTISM RESEARCH</td><td>&nbsp;</td><td>COMPUTERS IN BIOLOGY AND MEDICINE</td><td>International</td><td>7.700</td><td>7.700</td><td>2023</td><td>December</td><td>&nbsp;</td><td>ISSN: 0010-4825</td><td>168</td><td>1</td><td>3-30</td><td>SHIVANI PANDYA</td><td>SWATI JAIN</td><td>JAIPRAKASH VERMA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/computers-in-biology-and-medicine</td><td>https://www.sciencedirect.com/science/article/abs/pii/S0010482523012660</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_37" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3813&amp;cid=383">Click Here</a>
+                        </td><td>108</td><td>FUSION OF LINEAR AND NON-LINEAR DIMENSIONALITY REDUCTION TECHNIQUES FOR FEATURE REDUCTION IN LSTM-BASED INTRUSION DETECTION SYSTEM</td><td>Fusion_of_linear_and_non-linear_dimensionality_reduction_techniques_for_feature_reduction_in_LSTM-based_Intrusion_Detection_System_First_Page.pdf</td><td>APPLIED SOFT COMPUTING</td><td>International</td><td>8.700</td><td>8.700</td><td>2024</td><td>February</td><td>Scopus,Web of Science,</td><td>1568-4946</td><td>154</td><td>NOT AVAILABLE</td><td>1-9</td><td>THAKKAR ANKITKUMAR RAJESHKUMAR</td><td>NANDISH KIKANI</td><td>REBAKAH GEDDAM</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/applied-soft-computing</td><td>https://www.sciencedirect.com/science/article/pii/S1568494624001522</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_38" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3740&amp;cid=383">Click Here</a>
+                        </td><td>76</td><td>A CASE STUDY ON THE ESTIMATION OF SENSOR DATA GENERATION IN SMART CITIES AND THE ROLE OF OPPORTUNISTIC NETWORKS IN SENSOR DATA COLLECTION</td><td>P2P_Journal_Paper_First_Page.pdf</td><td>PEER-TO-PEER NETWORKING AND APPLICATIONS</td><td>International</td><td>4.200</td><td>4.200</td><td>2023</td><td>December</td><td>Scopus,Web of Science,</td><td>1936-6450</td><td>ARTICLE IN PRESS</td><td>ARTICLE IN PRESS</td><td>ARTICLE IN PRESS</td><td>JAY GANDHI</td><td>ZUNNUN NARMAWALA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://link.springer.com/journal/12083</td><td>https://link.springer.com/article/10.1007/s12083-023-01607-5</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_39" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3741&amp;cid=383">Click Here</a>
+                        </td><td>77</td><td>SECURING THE FUTURE: A COMPREHENSIVE REVIEW OF SECURITY CHALLENGES AND SOLUTIONS IN ADVANCED DRIVER ASSISTANCE SYSTEMS</td><td>Final_Published_First_Page.pdf</td><td>IEEE ACCESS</td><td>International</td><td>3.900</td><td>3.900</td><td>2024</td><td>January</td><td>Scopus,Web of Science,UGC/Care List,</td><td>2169-3536</td><td>12</td><td>-</td><td>643-678</td><td>ARYAN ALPESH MEHTA</td><td>ALI ASGAR PADARIA</td><td>DWIJ JAYESH BAVISI</td><td>VIJAY UKANI</td><td>PRIYANK THAKKAR</td><td>REBEKAH GEDDAM</td><td>KETAN KOTECHA</td><td>AJITH ABRAHAM</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639</td><td>https://ieeexplore.ieee.org/abstract/document/10373843</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_40" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3865&amp;cid=383">Click Here</a>
+                        </td><td>127</td><td>SOFTWARE EFFORT ESTIMATION USING MACHINE LEARNING ALGORITHMS</td><td>page1Proof.pdf</td><td>SCALABLE COMPUTING: PRACTICE AND EXPERIENCE</td><td>International</td><td>1.100</td><td>1.100</td><td>2024</td><td>February</td><td>Scopus,Web of Science,</td><td>1895-1767</td><td>25</td><td>2</td><td>1276-1285</td><td>LAVINGIA KRUTI RAJESH</td><td>RAJ PATEL</td><td>VIVEK PATEL</td><td>AMI LAVINGIA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.scpe.org/index.php/scpe/index</td><td>https://www.scpe.org/index.php/scpe/article/view/2213</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_41" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3854&amp;cid=383">Click Here</a>
+                        </td><td>117</td><td>WHALE OPTIMIZATION-BASED ACCESS CONTROL SCHEME IN D2D COMMUNICATION UNDERLAYING CELLULAR NETWORKS</td><td>JJ-1.pdf</td><td>IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT</td><td>International</td><td>5.300</td><td>5.300</td><td>2024</td><td>February</td><td>Scopus,Web of Science,</td><td>1932-4537</td><td>EARLY ACCESS</td><td>EARLY ACCESS</td><td>1-12</td><td>NILESH KUMAR JADAV</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028</td><td>https://ieeexplore.ieee.org/abstract/document/10423373</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_42" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3855&amp;cid=383">Click Here</a>
+                        </td><td>118</td><td>ML-BASED ENERGY CONSUMPTION AND DISTRIBUTION FRAMEWORK ANALYSIS FOR EVS AND CHARGING STATIONS IN SMART GRID ENVIRONMENT</td><td>JJ-2.pdf</td><td>IEEE ACCESS</td><td>International</td><td>3.900</td><td>3.900</td><td>2024</td><td>February</td><td>Scopus,Web of Science,</td><td>2169-3536</td><td>12</td><td>NA</td><td>23319 - 23337</td><td>FENIL RAMOLIYA</td><td>CHINMAY TRIVEDI</td><td>KRISHA DARJI</td><td>RIYA KAKKAR</td><td>RAJESH GUPTA</td><td>SUDEEP TANWAR</td><td>ZDZISLAW POLKOWSKI2</td><td>FAYEZ ALQAHTANI</td><td>AMR TOLBA</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639</td><td>https://ieeexplore.ieee.org/abstract/document/10431772</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_43" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3856&amp;cid=383">Click Here</a>
+                        </td><td>119</td><td>A DNN-ORCHESTRATED COGNITIVE RADIO-BASED POWER CONTROL SCHEME FOR D2D COMMUNICATION</td><td>JJ-3.pdf</td><td>PHYSICAL COMMUNICATION</td><td>International</td><td>2.200</td><td>2.200</td><td>2024</td><td>February</td><td>Scopus,Web of Science,</td><td>1876-3219</td><td>64</td><td>NA</td><td>102321</td><td>TEJAL RATHOD</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/physical-communication</td><td>https://www.sciencedirect.com/science/article/pii/S1874490724000399</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_44" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3857&amp;cid=383">Click Here</a>
+                        </td><td>120</td><td>EEG-BASED BIOMETRIC AUTHENTICATION SYSTEM USING CONVOLUTIONAL NEURAL NETWORK FOR MILITARY APPLICATIONS</td><td>JJ-4.pdf</td><td>SECURITY AND PRIVACY - WILEY</td><td>International</td><td>1.900</td><td>1.900</td><td>2023</td><td>October</td><td>Scopus,Web of Science,</td><td>2475-6725</td><td>7</td><td>2</td><td>1-20</td><td>HIMANSHU VADHER</td><td>PAL PATEL</td><td>ANUJA NAIR</td><td>TARJNI VYAS</td><td>SHIVANI DESAI</td><td>LATA GOHIL</td><td>SUDEEP TANWAR</td><td>DEEPAK GARG</td><td>ANUPAM SINGH</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/24756725</td><td>https://onlinelibrary.wiley.com/doi/abs/10.1002/spy2.345</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_45" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3858&amp;cid=383">Click Here</a>
+                        </td><td>121</td><td>SAFEGUARDING THE IOT: TAXONOMY, SECURITY SOLUTIONS, AND FUTURE RESEARCH OPPORTUNITIES</td><td>JJ-5.pdf</td><td>SECURITY AND PRIVACY WILEY</td><td>International</td><td>1.900</td><td>1.900</td><td>2023</td><td>November</td><td>Scopus,Web of Science,</td><td>2475-6725</td><td>7</td><td>2</td><td>1-21</td><td>ALAY PATEL</td><td>DEVAM PATEL</td><td>RIYA KAKKAR</td><td>PARITA OZA</td><td>SMITA AGRAWAL</td><td>SUDEEP TANWAR</td><td>RAVI SHARMA</td><td>NAGENDAR YAMSANI</td><td>&nbsp;</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/24756725</td><td>https://onlinelibrary.wiley.com/doi/abs/10.1002/spy2.354</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_46" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3859&amp;cid=383">Click Here</a>
+                        </td><td>122</td><td>MULTI-AGENT-BASED DECENTRALIZED RESIDENTIAL ENERGY MANAGEMENT USING DEEP REINFORCEMENT LEARNING</td><td>JJ-6.pdf</td><td>JOURNAL OF BUILDING ENGINEERING</td><td>International</td><td>6.400</td><td>6.400</td><td>2024</td><td>March</td><td>Scopus,Web of Science,</td><td>2352-7102</td><td>87</td><td>NA</td><td>109031</td><td>APARNA KUMARI</td><td>RIYA KAKKAR</td><td>SUDEEP TANWAR</td><td>DEEPAK GARG</td><td>ZDZISLAW POLKOWSKI</td><td>FAYEZ ALQAHTANI</td><td>AMR TOLBA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/journal-of-building-engineering</td><td>https://www.sciencedirect.com/science/article/pii/S2352710224005990</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_47" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3860&amp;cid=383">Click Here</a>
+                        </td><td>123</td><td>AN EMPIRICAL ANALYSIS OF DIFFUSION, AUTOENCODERS, AND ADVERSARIAL DEEP LEARNING MODELS FOR PREDICTING DEMENTIA USING HIGH-FIDELITY MRI</td><td>15thJan_2024An_Empirical_Analysis_of_Diffusion,_Autoencoders,_and_Adversarial_Deep_Learning_Models_for_Predicting_Dementia_Using_High-Fidelity_MRI.pdf</td><td>IEEE ACCESS</td><td>International</td><td>3.900</td><td>3.900</td><td>2024</td><td>January</td><td>Scopus,</td><td>21693536</td><td>4</td><td>-</td><td>1-13</td><td>PRANSHAV GAJJAR</td><td>MANAV GARG</td><td>SHIVANI DESAI</td><td>HITESH CHHINKANIWALA</td><td>HARSHAL A. SANGHVI</td><td>RIKI H. PATEL</td><td>SHAILESH GUPTA</td><td>ABHIJIT S. PANDYA</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/document/10400467</td><td>https://ieeexplore.ieee.org/document/10400467</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_48" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3861&amp;cid=383">Click Here</a>
+                        </td><td>124</td><td>A COMPREHENSIVE SURVEY ON MACHINE LEARNING TECHNIQUES IN OPPORTUNISTIC NETWORKS: ADVANCES, CHALLENGES AND FUTURE DIRECTIONS</td><td>PMC_first_page.pdf</td><td>PERVASIVE AND MOBILE COMPUTING</td><td>International</td><td>4.300</td><td>4.300</td><td>2024</td><td>March</td><td>Scopus,Web of Science,</td><td>1873-1589</td><td>100</td><td>101917</td><td>1-33</td><td>JAY GANDHI</td><td>ZUNNUN NARMAWALA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/pervasive-and-mobile-computing</td><td>https://authors.elsevier.com/sd/article/S1574-1192(24)00043-9</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_49" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3862&amp;cid=383">Click Here</a>
+                        </td><td>125</td><td>METICULOUS REVIEW: CUTTING-EDGE CERVIX CANCER STRATIFICATION USING IMAGE PROCESSING AND MACHINE LEARNING</td><td>Reviewpaper.png</td><td>INTERNATIONAL JOURNAL OF COMPUTING AND DIGITAL SYSTEMS</td><td>International</td><td>1.700</td><td>1.700</td><td>2024</td><td>March</td><td>Scopus,Web of Science,EBSCO,UGC/Care List,Others,</td><td>2210-142X</td><td>1</td><td>15.1</td><td>1343-1358</td><td>BARKHA BHAVSAR</td><td>BELA SHRIMALI</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ijcds.uob.edu.bh/</td><td>https://journal.uob.edu.bh/bitstream/handle/123456789/5503/IJCDS150195_1570989432.pdf?sequence=1</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_50" OnClick="Download_Click"></a>
+                        </td><td>104</td><td>DIGITAL MAMMOGRAPHY DATASET FOR BREAST CANCER DIAGNOSIS RESEARCH (DMID) WITH BREAST MASS SEGMENTATION ANALYSIS</td><td>&nbsp;</td><td>BIOMEDICAL ENGINEERING LETTERS</td><td>International</td><td>4.600</td><td>4.600</td><td>2023</td><td>December</td><td>Scopus,Web of Science,EBSCO,UGC/Care List,</td><td>2093-985X</td><td>-</td><td>-</td><td>-</td><td>OZA PARITA RAJIV</td><td>RAJIV OZA</td><td>URVI OZA</td><td>PAAWAN SHARMA</td><td>SAMIR PATEL</td><td>PANKAJ KUMAR</td><td>BAKUL GOHEL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://link.springer.com/journal/13534</td><td>https://link.springer.com/article/10.1007/s13534-023-00339-y#article-info</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_51" OnClick="Download_Click"></a>
+                        </td><td>105</td><td>BREAST LESION CLASSIFICATION FROM MAMMOGRAMS USING DEEP NEURAL NETWORK AND TEST-TIME AUGMENTATION</td><td>&nbsp;</td><td>NEURAL COMPUTING AND APPLICATIONS</td><td>International</td><td>6.000</td><td>6.000</td><td>2023</td><td>November</td><td>Scopus,Web of Science,EBSCO,UGC/Care List,</td><td>1433-3058</td><td>36</td><td>4</td><td>2101-2117</td><td>OZA PARITA RAJIV</td><td>PAAWAN SHARMA</td><td>SAMIR PATEL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://link.springer.com/journal/521</td><td>https://link.springer.com/article/10.1007/s00521-023-09165-w</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_52" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3747&amp;cid=383">Click Here</a>
+                        </td><td>79</td><td>BLOCKCHAIN-BASED SECURE VOTING MECHANISM UNDERLYING 5G NETWORK: A SMART CONTRACT APPROACH</td><td>J5.pdf</td><td>IEEE ACCESS</td><td>International</td><td>3.900</td><td>3.900</td><td>2023</td><td>July</td><td>Scopus,</td><td>2169-3536</td><td>11</td><td>EARLY ACCESS</td><td>76537 - 76550</td><td>SACHI CHAUDHARY</td><td>SHAIL SHAH</td><td>RIYA KAKKAR</td><td>RAJESH GUPTA</td><td>ABDULATIF ALABDULATIF</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639</td><td>https://ieeexplore.ieee.org/abstract/document/10188663</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_53" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3748&amp;cid=383">Click Here</a>
+                        </td><td>80</td><td>CLASSIFICATION OF POTENTIALLY HAZARDOUS ASTEROIDS USING SUPERVISED QUANTUM MACHINE LEARNING</td><td>J6.pdf</td><td>IEEE ACCESS</td><td>International</td><td>3.900</td><td>3.900</td><td>2023</td><td>July</td><td>Scopus,Web of Science,</td><td>2169-3536</td><td>11</td><td>EARLY ACCESS</td><td>75829 - 75848</td><td>RUSHIR BHAVSAR</td><td>NILESH KUMAR JADAV</td><td>UMESH BODKHE</td><td>RAJESH GUPTA</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639</td><td>https://ieeexplore.ieee.org/abstract/document/10188662</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_54" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3751&amp;cid=383">Click Here</a>
+                        </td><td>81</td><td>NETWORK MANAGEMENT SCHEMES FOR IOT ENVIRONMENT TOWARDS 6G: A COMPREHENSIVE REVIEW</td><td>J9.pdf</td><td>MICROPROCESSORS AND MICROSYSTEMS</td><td>International</td><td>2.600</td><td>2.600</td><td>2023</td><td>November</td><td>Scopus,Web of Science,</td><td>1872-9436</td><td>103</td><td>NA</td><td>104928</td><td>UMESH BODKHE</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/microprocessors-and-microsystems</td><td>https://www.sciencedirect.com/science/article/pii/S0141933123001722</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_55" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3752&amp;cid=383">Click Here</a>
+                        </td><td>82</td><td>AI AND BLOCKCHAIN-ASSISTED SECURE DATA-EXCHANGE FRAMEWORK FOR SMART HOME SYSTEMS</td><td>J10.pdf</td><td>MATHEMATICS</td><td>International</td><td>2.400</td><td>2.400</td><td>2023</td><td>September</td><td>Scopus,Web of Science,</td><td>2227-7390</td><td>11</td><td>19</td><td>4062</td><td>KHUS SHAH</td><td>NILESH KUMAR JADAV</td><td>SUDEEP TANWAR</td><td>ANUPAM SINGH</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.mdpi.com/journal/mathematics</td><td>https://www.mdpi.com/journal/mathematics</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_56" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3753&amp;cid=383">Click Here</a>
+                        </td><td>83</td><td>BLOCKCHAIN-BASED CROP RECOMMENDATION SYSTEM FOR PRECISION FARMING IN IOT ENVIRONMENT</td><td>J11.pdf</td><td>AGRONOMY, MDPI</td><td>International</td><td>3.700</td><td>3.700</td><td>2023</td><td>October</td><td>Scopus,Web of Science,</td><td>2073-4395</td><td>13</td><td>10</td><td>2642</td><td>DEVANGI HITENKUMAR PATEL</td><td>KAMYA PREMAL SHAH</td><td>RAJESH GUPTA</td><td>NILESH KUMAR JADAV</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.mdpi.com/journal/agronomy</td><td>https://www.mdpi.com/journal/agronomy</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_57" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3754&amp;cid=383">Click Here</a>
+                        </td><td>84</td><td>TRAFFIC SIGN CLASSIFICATION FOR AUTONOMOUS VEHICLES USING SPLIT AND FEDERATED LEARNING UNDERLYING 5G</td><td>J12.pdf</td><td>IEEE OPEN JOURNAL OF VEHICULAR TECHNOLOGY</td><td>International</td><td>6.400</td><td>6.400</td><td>2023</td><td>October</td><td>Scopus,Web of Science,</td><td>2644-1330</td><td>4</td><td>EARLY ACCESS</td><td>877 - 892</td><td>ALI ASGAR PADARIA</td><td>ARYAN ALPESH MEHTA</td><td>NILESH KUMAR JADAV</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782711</td><td>https://ieeexplore.ieee.org/abstract/document/10288388</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_58" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3756&amp;cid=383">Click Here</a>
+                        </td><td>85</td><td>BLOCKCHAIN AND CRYPTO FORENSICS: INVESTIGATING CRYPTO FRAUDS</td><td>J14.pdf</td><td>INTERNATIONAL JOURNAL OF NETWORK MANAGEMENT</td><td>International</td><td>1.500</td><td>1.500</td><td>2023</td><td>December</td><td>Scopus,Web of Science,</td><td>1099-1190</td><td>EARLY ACCESS</td><td>EARLY ACCESS</td><td>E2255</td><td>UDIT AGARWAL</td><td>VINAY RISHIWAL</td><td>SUDEEP TANWAR</td><td>MANO YADAV</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/10991190/</td><td>https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2255</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_59" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3757&amp;cid=383">Click Here</a>
+                        </td><td>86</td><td>DEEP LEARNING-BASED MODEL FOR DETECTION OF BRINJAL WEED IN THE ERA OF PRECISION AGRICULTURE</td><td>J15.pdf</td><td>COMPUTER, MATERIALS, AND CONTINUA</td><td>International</td><td>3.100</td><td>3.100</td><td>2023</td><td>October</td><td>Scopus,Web of Science,</td><td>1546-2226</td><td>77</td><td>1</td><td>1281-1301</td><td>JIGNA PATEL</td><td>ANAND RUPARELIA</td><td>SUDEEP TANWAR</td><td>FAYEZ ALQAHTANI</td><td>AMR TOLBA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.techscience.com/journal/CMC</td><td>https://www.techscience.com/cmc/v77n1/54453</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_60" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3758&amp;cid=383">Click Here</a>
+                        </td><td>87</td><td>DEEP LEARNING-BASED ROBUST MORPHED FACE AUTHENTICATION FRAMEWORK FOR ONLINE SYSTEMS</td><td>J16.pdf</td><td>COMPUTERS, MATERIALS &amp; CONTINUA</td><td>International</td><td>3.100</td><td>3.100</td><td>2023</td><td>October</td><td>Scopus,Web of Science,</td><td>1546-2226</td><td>77</td><td>1</td><td>1123-1142</td><td>HARSH MANKODIYA</td><td>PRIYAL PALKHIWALA</td><td>RAJESH GUPTA</td><td>NILESH KUMAR JADAV</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.techscience.com/journal/cmc</td><td>https://www.techscience.com/cmc/v77n1/54508/html</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_61" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3759&amp;cid=383">Click Here</a>
+                        </td><td>88</td><td>AI AND BLOCKCHAIN-BASED SECURE DATA DISSEMINATION ARCHITECTURE FOR IOT-ENABLED CRITICAL INFRASTRUCTURE</td><td>J17.pdf</td><td>SENSORS, MDPI</td><td>International</td><td>3.900</td><td>3.900</td><td>2023</td><td>November</td><td>Scopus,Web of Science,</td><td>1424-8220</td><td>23</td><td>23</td><td>8928</td><td>TEJAL RATHOD</td><td>NILESH KUMAR JADAV</td><td>SUDEEP TANWAR</td><td>ZDZISLAW POLKOWSKI</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.mdpi.com/journal/sensors</td><td>https://www.mdpi.com/1424-8220/23/21/8928</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_62" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3760&amp;cid=383">Click Here</a>
+                        </td><td>89</td><td>SECURE TRANSMISSION OF MEDICAL IMAGES IN MULTI-CLOUD E-HEALTHCARE APPLICATIONS USING DATA HIDING SCHEME</td><td>J18.pdf</td><td>ELSEVIER JOURNAL OF INFORMATION SECURITY AND APPLICATIONS</td><td>International</td><td>5.600</td><td>5.600</td><td>2023</td><td>December</td><td>Scopus,Web of Science,</td><td>2214-2134</td><td>79</td><td>NA</td><td>103655</td><td>K. JYOTHSNA DEVI</td><td>PRIYANKA SINGH</td><td>JATINDRA KUMAR DASH</td><td>HIREN KUMAR THAKKAR</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/journal-of-information-security-and-applications</td><td>https://www.sciencedirect.com/science/article/pii/S2214212623002399</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_63" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3761&amp;cid=383">Click Here</a>
+                        </td><td>90</td><td>EXPLORING SYNERGY OF BLOCKCHAIN AND 6G NETWORK FOR INDUSTRIAL AUTOMATION</td><td>J19.pdf</td><td>IEEE ACCESS</td><td>International</td><td>3.900</td><td>3.900</td><td>2023</td><td>December</td><td>Scopus,Web of Science,</td><td>2169-3536</td><td>11</td><td>EARLY ACCESS</td><td>137163 - 137187</td><td>MANO YADAV</td><td>UDIT AGARWAL</td><td>VINAY RISHIWAL</td><td>SUDEEP TANWAR</td><td>SUMAN KUMAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639</td><td>https://ieeexplore.ieee.org/abstract/document/10339278</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_64" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3762&amp;cid=383">Click Here</a>
+                        </td><td>91</td><td>CORRECTION: ENERGY AWARE RESOURCE ALLOCATION VIA MS-SLNO IN CLOUD DATA CENTER</td><td>J20.pdf</td><td>MULTIMEDIA TOOLS AND APPLICATIONS</td><td>International</td><td>3.600</td><td>3.600</td><td>2023</td><td>August</td><td>Scopus,Web of Science,</td><td>1573-7721</td><td>82</td><td>EARLY ACCESS</td><td>45565</td><td>SHUBHAM SINGH</td><td>PAWAN SINGH</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://link.springer.com/journal/11042</td><td>https://link.springer.com/article/10.1007/s11042-023-16324-7</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_65" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3763&amp;cid=383">Click Here</a>
+                        </td><td>92</td><td>A SURVEY ON SAFEGUARDING CRITICAL INFRASTRUCTURES: ATTACKS, AI SECURITY, AND FUTURE DIRECTIONS</td><td>J21.pdf</td><td>INTERNATIONAL JOURNAL OF CRITICAL INFRASTRUCTURE PROTECTION</td><td>International</td><td>3.600</td><td>3.600</td><td>2023</td><td>December</td><td>Scopus,Web of Science,</td><td>2212-2087</td><td>44</td><td>NA</td><td>100647</td><td>KHUSHI JATINKUMAR RAVAL</td><td>NILESH KUMAR JADAV</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/international-journal-of-critical-infrastructure-protection</td><td>https://www.sciencedirect.com/science/article/pii/S1874548223000604</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_66" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3764&amp;cid=383">Click Here</a>
+                        </td><td>93</td><td>DEEPFAKE GENERATION AND DETECTION: CASE STUDY AND CHALLENGES</td><td>J22.pdf</td><td>IEEE ACCESS</td><td>International</td><td>3.900</td><td>3.900</td><td>2023</td><td>December</td><td>Scopus,Web of Science,</td><td>2169-3536</td><td>11</td><td>EARLY ACCESS</td><td>143296 - 143323</td><td>YOGESH PATEL</td><td>SUDEEP TANWAR</td><td>RAJESH GUPTA</td><td>PRONAYA BHATTACHARYA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639</td><td>https://ieeexplore.ieee.org/abstract/document/10354308</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_67" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3765&amp;cid=383">Click Here</a>
+                        </td><td>94</td><td>UNLEASHING THE POWER OF SDN AND GNN FOR NETWORK ANOMALY DETECTION: STATE-OF-THE-ART, CHALLENGES, AND FUTURE DIRECTIONS</td><td>J23.pdf</td><td>SECURITY AND PRIVACY</td><td>International</td><td>1.900</td><td>1.900</td><td>2023</td><td>July</td><td>Scopus,Web of Science,</td><td>2475-6725</td><td>7</td><td>1</td><td>E337</td><td>ARCHAN DHADHANIA</td><td>JITENDRA BHATIA</td><td>RACHANA MEHTA</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/24756725</td><td>https://onlinelibrary.wiley.com/doi/abs/10.1002/spy2.337</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_68" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3766&amp;cid=383">Click Here</a>
+                        </td><td>95</td><td>A SMART CONTRACT AND IPFS-BASED FRAMEWORK FOR SECURE ELECTRIC VEHICLES SYNCHRONIZATION AT CHARGING STATION</td><td>J24.pdf</td><td>SUSTAINABLE ENERGY, GRIDS AND NETWORKS</td><td>International</td><td>5.400</td><td>5.400</td><td>2024</td><td>January</td><td>Scopus,Web of Science,</td><td>2352-4677</td><td>37</td><td>NA</td><td>101272</td><td>SACHI CHAUDHARY</td><td>RAJESH GUPTA</td><td>RIYA KAKKAR</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks</td><td>https://www.sciencedirect.com/science/article/pii/S2352467724000018</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_69" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3767&amp;cid=383">Click Here</a>
+                        </td><td>96</td><td>A REVIEW OF GRAPH NEURAL NETWORKS: CONCEPTS, ARCHITECTURES, TECHNIQUES, CHALLENGES, DATASETS, APPLICATIONS, AND FUTURE DIRECTIONS</td><td>J25.pdf</td><td>JOURNAL OF BIG DATA</td><td>International</td><td>8.100</td><td>8.100</td><td>2024</td><td>January</td><td>Scopus,Web of Science,</td><td>2196-1115</td><td>11</td><td>18</td><td>1-43</td><td>BHARTI KHEMANI</td><td>SHRUTI PATIL</td><td>KETAN KOTECHA</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://journalofbigdata.springeropen.com/</td><td>https://link.springer.com/article/10.1186/s40537-023-00876-4</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_70" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3768&amp;cid=383">Click Here</a>
+                        </td><td>97</td><td>QUANTUM MACHINE LEARNING-BASED FRAMEWORK TO DETECT HEART FAILURES IN HEALTHCARE 4.0</td><td>J26.pdf</td><td>SOFTWARE: PRACTICE AND EXPERIENCE</td><td>International</td><td>3.500</td><td>3.500</td><td>2023</td><td>September</td><td>Scopus,Web of Science,</td><td>1097-024X</td><td>54</td><td>2</td><td>168-185</td><td>MANUSHI MUNSHI</td><td>RAJESH GUPTA</td><td>NILESH KUMAR JADAV</td><td>ZDZISLAW POLKOWSKI</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/1097024x</td><td>https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.3264</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_71" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3769&amp;cid=383">Click Here</a>
+                        </td><td>98</td><td>ARTIFICIAL NEURAL NETWORK-DRIVEN FEDERATED LEARNING FOR HEART STROKE PREDICTION IN HEALTHCARE 4.0 UNDERLYING 5G</td><td>J27.pdf</td><td>CONCURRENCY AND COMPUTATION: PRACTICE AND EXPERIENCE</td><td>International</td><td>2.000</td><td>2.000</td><td>2023</td><td>September</td><td>Scopus,Web of Science,</td><td>1532-0634</td><td>36</td><td>3</td><td>E7911</td><td>HARSH BHATT</td><td>NILESH KUMAR JADAV</td><td>APARNA KUMARI</td><td>RAJESH GUPTA</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/15320634</td><td>https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7911</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_72" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3770&amp;cid=383">Click Here</a>
+                        </td><td>99</td><td>GRU-BASED DIGITAL TWIN FRAMEWORK FOR DATA ALLOCATION AND STORAGE IN IOT-ENABLED SMART HOME NETWORKS</td><td>J28.pdf</td><td>FUTURE GENERATION COMPUTER SYSTEMS</td><td>International</td><td>7.500</td><td>7.500</td><td>2023</td><td>December</td><td>Scopus,Web of Science,</td><td>1872-7115</td><td>153</td><td>NA</td><td>391-402</td><td>SUSHIL KUMAR SINGH</td><td>MANISH KUMAR</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/future-generation-computer-systems</td><td>https://www.sciencedirect.com/science/article/abs/pii/S0167739X23004697</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_73" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3771&amp;cid=383">Click Here</a>
+                        </td><td>100</td><td>A COMPREHENSIVE REVIEW OF INTERNET OF THINGS AND CUTTING-EDGE TECHNOLOGIES EMPOWERING SMART FARMING</td><td>0137.pdf</td><td>CURRENT SCIENCE</td><td>International</td><td>1.000</td><td>1.000</td><td>2024</td><td>January</td><td>Scopus,Web of Science,</td><td>0011-3891</td><td>126</td><td>02</td><td>137-152</td><td>BHAVIN PATEL</td><td>JITENDRA BHATIA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.currentscience.ac.in/index.php</td><td>https://www.currentscience.ac.in/Volumes/126/02/0137.pdf</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_74" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3791&amp;cid=383">Click Here</a>
+                        </td><td>101</td><td>BLOCKCHAIN-BASED SECURE AND INTELLIGENT DATA DISSEMINATION FRAMEWORK FOR UAVS IN BATTLEFIELD APPLICATIONS</td><td>J41.pdf</td><td>IEEE COMMUNICATIONS STANDARDS MAGAZINE</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>September</td><td>Scopus,</td><td>2471-2833</td><td>7</td><td>3</td><td>16 - 23</td><td>NILESH KUMAR JADAV</td><td>TEJAL RATHOD</td><td>RAJESH GUPTA</td><td>SUDEEP TANWAR</td><td>NEERAJ KUMAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7886829</td><td>https://ieeexplore.ieee.org/abstract/document/10287318</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_75" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3794&amp;cid=383">Click Here</a>
+                        </td><td>102</td><td>BLOCKCHAIN-ENVISIONED ONION ROUTING FRAMEWORK FOR INTERNET OF VEHICLES COMMUNICATION TOWARD 6G</td><td>J44.pdf</td><td>IEEE INTERNET OF THINGS MAGAZINE</td><td>International</td><td>0.000</td><td>0.000</td><td>2024</td><td>January</td><td>&nbsp;</td><td>2576-3199</td><td>7</td><td>1</td><td>82-88</td><td>NILESH KUMAR JADAV</td><td>ANUJA NAIR</td><td>RAJESH GUPTA</td><td>SUDEEP TANWAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8548628</td><td>https://ieeexplore.ieee.org/abstract/document/10397570</td><td>INSTITUTE OF TECHNOLOGY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_76" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3733&amp;cid=383">Click Here</a>
+                        </td><td>70</td><td>SINGLE SWITCH HIGH VOLTAGE GAIN DC-DC CONVERTER FOR  RENEWABLE ENERGY APPLICATIONS</td><td>Single_switch_HVG.png</td><td>INTERNATIONAL JOURNAL OF POWER ELECTRONICS</td><td>International</td><td>0.000</td><td>0.000</td><td>2024</td><td>January</td><td>Scopus,</td><td>1756-6398</td><td>19</td><td>01</td><td>1-23</td><td>KARRI V V SATYANARAYANA</td><td>RAKESH MAURYA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.inderscience.com/jhome.php?jcode=ijpelec</td><td>https://www.inderscience.com/info/inarticle.php?artid=135701</td><td>INSTITUTE OF TECHNOLOGY</td><td>ELECTRICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_77" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3548&amp;cid=383">Click Here</a>
+                        </td><td>40</td><td>UNDERSTANDING FREQUENCY RESPONSE OF INDUCTION MOTOR WINDING THROUGH ELECTROMAGNETIC WAVE EQUATIONS</td><td>Frequency_reaponse_and_electromagnetic_equations.pdf</td><td>ADVANCES IN ELECTRICAL AND ELECTRONIC ENGINEERING</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>September</td><td>Scopus,Web of Science,</td><td>1804-3119</td><td>21</td><td>3</td><td>216-225</td><td>HORMAZ AMROLIA</td><td>SANTOSH C VORA</td><td>K P BADGUJAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://advances.utc.sk/index.php/AEEE/index</td><td>10.15598/aeee.v21i3.5029</td><td>INSTITUTE OF TECHNOLOGY</td><td>ELECTRICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_78" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3627&amp;cid=383">Click Here</a>
+                        </td><td>55</td><td>OPTIMAL OVERCURRENT RELAY COORDINATION FOR INTERCONNECTED POWER SYSTEMS: A PROPER APPROACH AND IMPROVED TECHNIQUE</td><td>paper.pdf</td><td>OPTIMAL OVERCURRENT RELAY COORDINATION FOR INTERCONNECTED POWER SYSTEMS: A PROPER APPROACH AND IMPROVED TECHNIQUE</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>August</td><td>Scopus,</td><td>2772-6711</td><td>5</td><td>-</td><td>-</td><td>GODWAL SHANKER DALCHAND</td><td>KARTIK S PANDYA</td><td>SANTOSH C VORA</td><td>CHINTAN R MEHTA</td><td>VIPUL N RAJPUT</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/science/article/pii/S2772671123001432?via%3Dihub</td><td>https://www.sciencedirect.com/science/article/pii/S2772671123001432?via%3Dihub</td><td>INSTITUTE OF TECHNOLOGY</td><td>ELECTRICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_79" OnClick="Download_Click"></a>
+                        </td><td>11</td><td>OPTIMAL OVERCURRENT RELAY COORDINATION FOR INTERCONNECTED POWER SYSTEMS: A PROPER APPROACH AND IMPROVED TECHNIQUE</td><td>&nbsp;</td><td>E-PRIME - ADVANCES IN ELECTRICAL ENGINEERING, ELECTRONICS AND ENERGY</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>September</td><td>Scopus,</td><td>2772-6711</td><td>5</td><td>YET TO GET THE ISSUE NO</td><td>1-10</td><td>SHANKER D. GODWAL</td><td>KARTIK S PANDYA</td><td>SANTOSH C. VORA</td><td>MEHTA CHINTAN RAJESHKUMAR</td><td>VIPUL RAJPUT</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>www.elsevier.com/locate/prime</td><td>e-Prime - Advances in Electrical Engineering, Electronics and Energy 5 (2023) 100248</td><td>INSTITUTE OF TECHNOLOGY</td><td>ELECTRICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_80" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3254&amp;cid=383">Click Here</a>
+                        </td><td>2</td><td>CHAOTIC BUTTERFLY OPTIMIZATION ALGORITHM BASED CASCADED PI-TID CONTROLLER FOR FREQUENCY CONTROL IN THREE AREA HYBRID MICROGRID SYSTEM</td><td>17668723_OCAM-pages-1.pdf</td><td>OPTIMAL CONTROL APPLICATIONS AND METHODS</td><td>International</td><td>1.955</td><td>1.955</td><td>2023</td><td>September</td><td>Scopus,Web of Science,</td><td>10991514</td><td>44</td><td>5</td><td>2595-2619</td><td>MAUSRI BHUYAN</td><td>DULAL CHANDRA DAS</td><td>AMAR KUMAR BARIK</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/10991514</td><td>https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.2994</td><td>INSTITUTE OF TECHNOLOGY</td><td>ELECTRICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_81" OnClick="Download_Click"></a>
+                        </td><td>57</td><td>A STUDY OF THE EFFECT OF THE CU AND CR CO-DOPING ON STRUCTURAL, MAGNETIC AND DIELECTRIC PROPERTIES OF BARIUM HEXAFERRITES SYNTHESIZED IN PRESENCE OF MENTHA LEAVES EXTRACT</td><td>&nbsp;</td><td>MATERIALS TODAY COMMUNICATION</td><td>International</td><td>0.000</td><td>3.800</td><td>2023</td><td>September</td><td>Scopus,Web of Science,UGC/Care List,</td><td>2352-4928</td><td>37</td><td>-</td><td>107214</td><td>CHAUHAN CHETNA CHATURBHAI</td><td>ABHISHEK A. GOR</td><td>N.M. DEVASHRAYEE</td><td>TANUJ GUPTA</td><td>RAJSHREE B. JOTANIA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/materials-today-communications/about/insights</td><td>https://www.sciencedirect.com/science/article/abs/pii/S2352492823019050?via%3Dihub</td><td>INSTITUTE OF TECHNOLOGY</td><td>ELECTRONICS &amp;  COMMUNICATION ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_82" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3732&amp;cid=383">Click Here</a>
+                        </td><td>69</td><td>MACHINE LEARNING ALGORITHMS FOR FAULTPREDICTION</td><td>33_2023_11_NUJET.pdf</td><td>NIRMA UNIVERSITY JOURNAL OF ENGINEERING AND TECHNOLOGY</td><td>National</td><td>0.000</td><td>0.000</td><td>2023</td><td>November</td><td>&nbsp;</td><td>2231-2870</td><td>1</td><td>1</td><td>1-5</td><td>SIMA GONSAI</td><td>USHA MEHTA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://journals.nirmauni.ac.in/index.php/technology</td><td>https://journals.nirmauni.ac.in/index.php/technology/article/view/61</td><td>INSTITUTE OF TECHNOLOGY</td><td>ELECTRONICS &amp;  COMMUNICATION ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_83" OnClick="Download_Click"></a>
+                        </td><td>62</td><td>DESIGN, DEVELOPMENT AND TESTING OF A 16-BIT REDUCED INSTRUCTION SET COMPUTER ARCHITECTURE BASED PROCESSOR</td><td>&nbsp;</td><td>SADHNA</td><td>International</td><td>1.500</td><td>1.500</td><td>2023</td><td>November</td><td>Scopus,Web of Science,UGC/Care List,</td><td>09737677</td><td>48</td><td>244</td><td>1-7</td><td>SHAH DHAVAL GOPALCHANDRA</td><td>SACHIN GAJJAR</td><td>MANAN JAIN</td><td>HET KANZARIYA</td><td>NEEL JOSHI</td><td>YESHA MASHARU</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/12046</td><td>https://link.springer.com/article/10.1007/s12046-023-02304-y</td><td>INSTITUTE OF TECHNOLOGY</td><td>ELECTRONICS &amp;  COMMUNICATION ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_84" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3798&amp;cid=383">Click Here</a>
+                        </td><td>106</td><td>COLLABORATIVE LEARNING: A TOOL TO ENHANCE COMMUNICATION SKILLS</td><td>Collaborative_Learning.png</td><td>INDIAN JOURNAL OF TECHNICAL EDUCATION</td><td>National</td><td>0.000</td><td>0.000</td><td>2023</td><td>July</td><td>UGC/Care List,</td><td>0971-3034</td><td>46</td><td>3</td><td>109-117</td><td>PRATIMA SHAH</td><td>RATNA RAO</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://www.isteonline.in/Viewtopics.aspx?MenuId=Vol_46_No3_1431</td><td>http://www.isteonline.in/Datafiles/cms//July-Sept%202023%20for%20web.pdf</td><td>INSTITUTE OF TECHNOLOGY</td><td>HUMANITIES AND SOCIAL SCIENCE</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_85" OnClick="Download_Click"></a>
+                        </td><td>75</td><td>PGASH: PROVABLE GROUP-BASED AUTHENTICATION SCHEME FOR INTERNET OF HEALTHCARE THINGS</td><td>&nbsp;</td><td>PEER-TO-PEER NETWORKING AND APPLICATIONS</td><td>International</td><td>4.200</td><td>4.200</td><td>2024</td><td>January</td><td>Scopus,Web of Science,UGC/Care List,</td><td>1936-6450</td><td>1</td><td>1</td><td>1-20</td><td>CHANDAN TRIVEDI</td><td>KEYUR PARRMAR</td><td>UDAI PRATAP RAO</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://link.springer.com/journal/12083</td><td>https://link.springer.com/article/10.1007/s12083-023-01611-9</td><td>INSTITUTE OF TECHNOLOGY</td><td>INFORMATION TECHNOLOGY ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_86" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3522&amp;cid=383">Click Here</a>
+                        </td><td>27</td><td>A COMPREHENSIVE REVIEW: ACTIVE LEARNING FOR HYPERSPECTRAL IMAGE CLASSIFICATIONS</td><td>Screenshot_(9).png</td><td>EARTH SCIENCE INFORMATICS</td><td>International</td><td>2.900</td><td>2.900</td><td>2023</td><td>July</td><td>Scopus,Web of Science,</td><td>1865-0473</td><td>-</td><td>-</td><td>1975–1991</td><td>PATEL USHA DINESHBHAI</td><td>VIBHA PATEL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/12145</td><td>https://link.springer.com/article/10.1007/s12145-023-01040-5</td><td>INSTITUTE OF TECHNOLOGY</td><td>INFORMATION TECHNOLOGY ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_87" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3523&amp;cid=383">Click Here</a>
+                        </td><td>28</td><td>ACTIVE LEARNING BASED HYPERSPECTRAL IMAGE CLASSIFICATION: A REINFORCEMENT LEARNING APPROACH</td><td>Screenshot_(10).png</td><td>THE JOURNAL OF SUPERCOMPUTING G</td><td>International</td><td>3.300</td><td>3.300</td><td>2023</td><td>August</td><td>Scopus,Web of Science,</td><td>0920-8542</td><td>-</td><td>-</td><td>1-23</td><td>PATEL USHA DINESHBHAI</td><td>VIBHA PATEL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/11227</td><td>https://link.springer.com/article/10.1007/s11227-023-05568-7</td><td>INSTITUTE OF TECHNOLOGY</td><td>INFORMATION TECHNOLOGY ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_88" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3533&amp;cid=383">Click Here</a>
+                        </td><td>33</td><td>TRAFFIC SIGN RECOGNITION USING DEEP LEARNING</td><td>IJVAS16201.pdf</td><td>INTERNATIONAL JOURNAL OF VEHICLE AUTONOMOUS SYSTEMS</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>August</td><td>&nbsp;</td><td>1741-5306</td><td>16</td><td>2/3/4</td><td>97-107</td><td>VRAJ PATEL</td><td>JOY MEHTA</td><td>SAURAB IYER</td><td>SHARMA ANKIT RAVINDRA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.inderscience.com/jhome.php?jcode=ijvas</td><td>https://www.inderscience.com/info/inarticle.php?artid=133005</td><td>INSTITUTE OF TECHNOLOGY</td><td>INSTRUMENTATION &amp; CONTROLS (UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_89" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3704&amp;cid=383">Click Here</a>
+                        </td><td>63</td><td>PERFORMANCE OPTIMIZATION FOR HANDWRITTEN GUJARATI ALPHANUMERIC SCRIPT IDENTIFICATION</td><td>Sadhana_Research_Paper_2.pdf</td><td>SADHANA</td><td>International</td><td>1.600</td><td>1.600</td><td>2023</td><td>November</td><td>Scopus,Web of Science,</td><td>0973-7677</td><td>48</td><td>-</td><td>1-7</td><td>KRISHN LIMBACHIYA</td><td>SHARMA ANKIT RAVINDRA</td><td>PRIYANK THAKKAR</td><td>DIPAK ADHYARU</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/12046</td><td>https://link.springer.com/article/10.1007/s12046-023-02307-9</td><td>INSTITUTE OF TECHNOLOGY</td><td>INSTRUMENTATION &amp; CONTROLS (UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_90" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3594&amp;cid=383">Click Here</a>
+                        </td><td>49</td><td>METAHATE: AI-BASED HATE SPEECH DETECTION FOR SECURED ONLINE GAMING IN METAVERSE USING BLOCKCHAIN</td><td>MetaHate__AI-based_hate_speech_detection_for_secured_online_gaming_in_metaverse_using_blockchain_-_Sanghvi_-_SECURITY_AND_PRIVACY_-_Wiley_Online_Library.pdf</td><td>SECURITY AND PRIVACY</td><td>International</td><td>0.000</td><td>1.900</td><td>2023</td><td>September</td><td>Web of Science,</td><td>2475-6725</td><td>NA</td><td>NA</td><td>E343</td><td>HARSHIL SANGHVI</td><td>RUSHIR BHAVSAR</td><td>VINI HUNDLANI</td><td>LATA GOHIL</td><td>TARJNI VYAS</td><td>ANUJA NAIR</td><td>SHIVANI DESAI</td><td>NILESH KUMAR JADAV</td><td>SUDEEP TANWAR</td><td>RAVI SHARMA</td><td>https://onlinelibrary.wiley.com/journal/24756725</td><td>https://onlinelibrary.wiley.com/doi/full/10.1002/spy2.343</td><td>INSTITUTE OF TECHNOLOGY</td><td>M. C. A.</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_91" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3595&amp;cid=383">Click Here</a>
+                        </td><td>50</td><td>EEG-BASED BIOMETRIC AUTHENTICATION SYSTEM USING CONVOLUTIONAL NEURAL NETWORK&#160;FOR MILITARY APPLICATIONS</td><td>EEG-based_biometric_authentication_system_using_convolutional_neural_network&#160;for_military_applications_-_Vadher_-_SECURITY_AND_PRIVACY_-_Wiley_Online_Library.pdf</td><td>SECURITY AND PRIVACY</td><td>International</td><td>0.000</td><td>1.900</td><td>2023</td><td>October</td><td>Web of Science,</td><td>2475-6725</td><td>NA</td><td>NA</td><td>NA</td><td>HIMANSHU VADHER</td><td>PAL PATEL</td><td>ANUJA NAIR</td><td>TARJNI VYAS</td><td>SHIVANI DESAI</td><td>LATA GOHIL</td><td>SUDEEP TANWAR</td><td>DEEPAK GARG</td><td>ANUPAM SINGH</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/24756725</td><td>https://onlinelibrary.wiley.com/doi/10.1002/spy2.345</td><td>INSTITUTE OF TECHNOLOGY</td><td>M. C. A.</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_92" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3538&amp;cid=383">Click Here</a>
+                        </td><td>38</td><td>MAMMOGRAM PRE-PROCESSING USING FILTERING METHODS FOR BREAST CANCER DIAGNOSIS</td><td>IJIGSP-V15-N4-4.pdf</td><td>INTERNATIONAL JOURNAL OF IMAGE, GRAPHICS AND SIGNAL PROCESSING(IJIGSP)</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>August</td><td>Scopus,</td><td>2074-9082</td><td>15</td><td>4</td><td>44-58</td><td>HEMALI SHAH</td><td>AGRAWAL SMITA SURESHKUMAR</td><td>PARITA OZA</td><td>SUDEEP TANWAR</td><td>AHMED ALKHAYYA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.mecs-press.org/ijigsp/</td><td>https://www.mecs-press.org/ijigsp/ijigsp-v15-n4/IJIGSP-V15-N4-4.pdf</td><td>INSTITUTE OF TECHNOLOGY</td><td>M. C. A.</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_93" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3539&amp;cid=383">Click Here</a>
+                        </td><td>39</td><td>SELECTION OF BEST MACHINE LEARNING MODEL TO PREDICT DELAY IN PASSENGER AIRLINES</td><td>IEEE_Xplore_Full-Text_PDF_.pdf</td><td>IEEE ACCESS</td><td>International</td><td>3.900</td><td>3.900</td><td>2023</td><td>August</td><td>Scopus,Web of Science,</td><td>2169-3536</td><td>11</td><td>-</td><td>79673 - 79683</td><td>RAVI KOTHARI</td><td>RIYA KAKKAR</td><td>AGRAWAL SMITA SURESHKUMAR</td><td>PARITA OZA</td><td>SUDEEP TANWAR</td><td>HARAT JAYASWAL</td><td>RAVI SHARMA</td><td>GULSHAN SHARMA</td><td>PITSHOU N. BOKORO</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639</td><td>https://ieeexplore.ieee.org/abstract/document/10194905</td><td>INSTITUTE OF TECHNOLOGY</td><td>M. C. A.</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_94" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3835&amp;cid=383">Click Here</a>
+                        </td><td>110</td><td>TESTING ON 1/3/2024</td><td>grievance_handling_mechanism.pdf</td><td>TEST</td><td>National</td><td>0.000</td><td>0.000</td><td>2024</td><td>March</td><td>Scopus,</td><td>1212</td><td>1</td><td>1</td><td>1-10</td><td>PATEL RINKI HITESH</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://apps.nirmauni.ac.in/RPMS/Pages/PublicationEntry.aspx</td><td>https://apps.nirmauni.ac.in/RPMS/Pages/PublicationEntry.aspx</td><td>INSTITUTE OF TECHNOLOGY</td><td>M. C. A.</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_95" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3818&amp;cid=383">Click Here</a>
+                        </td><td>109</td><td>CROSS STYLE IMAGE SYNTHESIS THROUGH  SEMI COUPLED DICTIONARY LEARNING AND GENERALIZED CROSS VALIDATION ALGORITHM</td><td>SJST_Best_Paper_1.pdf</td><td>SURANAREE J. SCI. TECHNOL.</td><td>International</td><td>0.000</td><td>0.214</td><td>2023</td><td>November</td><td>Scopus,Web of Science,EBSCO,</td><td>0858-849X</td><td>30</td><td>6</td><td>010263(1-11)</td><td>MALHOTRA SANDEEP HIDESHKUMAR</td><td>HEMANT GOKLANI</td><td>KINJAL SOLANKI</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ird.sut.ac.th/journal/sjst/#/home</td><td>https://ird.sut.ac.th/journal/sjst/#/los/manuscript/25521</td><td>INSTITUTE OF TECHNOLOGY</td><td>MATHEMATICS</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_96" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3734&amp;cid=383">Click Here</a>
+                        </td><td>71</td><td>NUMERICAL SOLUTION OF TWO-DIMENSIONAL NONLINEAR RIESZ SPACE-FRACTIONAL REACTION–ADVECTION–DIFFUSION EQUATION USING FAST COMPACT IMPLICIT INTEGRATION FACTOR METHOD</td><td>Riesz_ZAMM-2.pdf</td><td>JOURNAL OF APPLIED MATHEMATICS AND MECHANICS</td><td>International</td><td>2.300</td><td>2.300</td><td>2023</td><td>September</td><td>Scopus,Web of Science,Indian citation Index,UGC/Care List,</td><td>1521-4001</td><td>103</td><td>9</td><td>E202200334</td><td>CHETNA BISWAS</td><td>SUBIR DAS</td><td>ANUP SINGH</td><td>TOMASZ SADOWSKI</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://onlinelibrary.wiley.com/journal/15214001</td><td>https://onlinelibrary.wiley.com/doi/full/10.1002/zamm.202200334</td><td>INSTITUTE OF TECHNOLOGY</td><td>MATHEMATICS</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_97" OnClick="Download_Click"></a>
+                        </td><td>73</td><td>FRACTIONAL MATHEMATICAL MODEL OF LISTERIA INFECTION CAUSED BY PRE-COOKED PACKAGE FOOD</td><td>&nbsp;</td><td>RESULTS IN CONTROL AND OPTIMIZATION</td><td>International</td><td>0.000</td><td>0.030</td><td>2024</td><td>January</td><td>Scopus,Web of Science,</td><td>2666-7207</td><td>14</td><td>MARCH 2024</td><td>100371</td><td>J.P. CHAUHAN</td><td>&nbsp;</td><td>YEOLEKAR BIJAL MAHESH</td><td>M.A. YEOLEKAR</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/results-in-control-and-optimization</td><td>https://www.sciencedirect.com/science/article/pii/S2666720724000018</td><td>INSTITUTE OF TECHNOLOGY</td><td>MATHEMATICS</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_98" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3738&amp;cid=383">Click Here</a>
+                        </td><td>74</td><td>EFFECT OF GREEN TECHNOLOGY INVESTMENT ON CRUDE OIL INVENTORY SYSTEM - A CASE STUDY BASED ON ONGC DATA</td><td>Frontpage_paper.png</td><td>YUGOSLAV JOURNAL OF OPERATIONS RESEARCH</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>October</td><td>Scopus,EBSCO,Others,</td><td>0354-0243</td><td>34</td><td>1</td><td>177-200</td><td>ABHIBASU SEN</td><td>KARABI DUTTA CHOUDHURY</td><td>TAPAN KUMAR DATTA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://yujor.fon.bg.ac.rs/index.php/yujor</td><td>http://dx.doi.org/10.2298/YJOR230415025S</td><td>INSTITUTE OF TECHNOLOGY</td><td>MATHEMATICS</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_99" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3863&amp;cid=383">Click Here</a>
+                        </td><td>126</td><td>A SUSTAINABLE BI-OBJECTIVE INVENTORY MODEL WITH SOURCE-BASED EMISSIONS AND PLAN-BASED GREEN INVESTMENTS UNDER INFLATION AND THE PRESENT VALUE OF MONEY</td><td>ORD-2024.pdf</td><td>OPERATIONS RESEARCH AND DECISIONS</td><td>International</td><td>0.400</td><td>0.400</td><td>2024</td><td>March</td><td>Scopus,Web of Science,EBSCO,Others,</td><td>2391-6060</td><td>34</td><td>1</td><td>91-117</td><td>TAPAN DATTA KUMAR</td><td>SAYANTAN DATTA</td><td>ADRIJIT GOSWAMI</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ord.pwr.edu.pl/</td><td>DOI 10.37190/ord240105</td><td>INSTITUTE OF TECHNOLOGY</td><td>MATHEMATICS</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_100" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3742&amp;cid=383">Click Here</a>
+                        </td><td>78</td><td>ROLLING ELEMENT BEARING FAULT DIAGNOSIS USING AN INTEGRATED APPROACH INCORPORATING TEAGER–KAISER ENERGY OPERATOR AND SINGULAR SPECTRUM ANALYSIS</td><td>Springer_first_page.pdf</td><td>JOURNAL OF VIBRATION ENGINEERING &amp; TECHNOLOGIES</td><td>International</td><td>2.700</td><td>2.700</td><td>2023</td><td>November</td><td>Scopus,Web of Science,</td><td>2523-3939</td><td>11</td><td>8</td><td>3859–3878</td><td>PATEL DHAVAL VALLABHBHAI</td><td>BHOJAWALA VIPUL MANHARLAL</td><td>PATEL KAUSHIK MITHABHAI</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://link.springer.com/journal/42417</td><td>https://link.springer.com/article/10.1007/s42417-022-00787-3</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_101" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3845&amp;cid=383">Click Here</a>
+                        </td><td>111</td><td>INVESTIGATIONS ON THE INFLUENCE OF LASER SURFACE TREATMENT ON HARDNESS AND WEAR BEHAVIOUR OF AL-MMC PREPARED THROUGH POWDER METALLURGY ROUTE</td><td>FUME_March_2024.pdf</td><td>FACTA UNIVERSITATIS, SERIES: MECHANICAL ENGINEERING</td><td>International</td><td>4.662</td><td>4.662</td><td>2024</td><td>March</td><td>Scopus,Web of Science,</td><td>0354-2025</td><td>IN PRESS</td><td>IN PRESS</td><td>1-18</td><td>ARVIND SANKHLA</td><td>KAUSHIK PATEL</td><td>MAKHESANA MAYURKUMAR ASHWINBHAI</td><td>ANAND PATEL</td><td>KAPIL GUPTA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>http://casopisi.junis.ni.ac.rs/index.php/FUMechEng/index</td><td>http://casopisi.junis.ni.ac.rs/index.php/FUMechEng/article/view/12109</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_102" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3528&amp;cid=383">Click Here</a>
+                        </td><td>29</td><td>BIMETALLIC OXIDE MG-CU NANOPARTICLES SYNTHESIS AND APPLICATION IN PHOTOMETRIC SENSING OF TRYPSIN IN THE PRESENCE OF TAP WATER, AMMONIA, AND GLUTAMINE</td><td>Materials_Today_Communications_Sept_2023.pdf</td><td>MATERIALS TODAY COMMUNICATIONS</td><td>International</td><td>3.800</td><td>3.800</td><td>2023</td><td>September</td><td>Scopus,Web of Science,</td><td>2352-4928</td><td>37</td><td>1</td><td>107015</td><td>ANESU NYABADZA</td><td>EANNA MCCARTHY</td><td>MAKHESANA MAYURKUMAR ASHWINBHAI</td><td>ANOUK PLOUZE</td><td>KARSTEN FLEISCHER</td><td>MERCEDES VAZQUEZ</td><td>DERMOT BRABAZON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/materials-today-communications</td><td>https://www.sciencedirect.com/science/article/pii/S2352492823017063</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_103" OnClick="Download_Click"></a>
+                        </td><td>15</td><td>EFFECTS OF MACHINING PARAMETERS OF C45 STEEL APPLYING VEGETABLE LUBRICANT WITH MINIMUM QUANTITY COOLING LUBRICATION (MQCL)</td><td>&nbsp;</td><td>LUBRICANTS</td><td>International</td><td>3.500</td><td>3.500</td><td>2023</td><td>August</td><td>Scopus,Web of Science,UGC/Care List,</td><td>2075-4442</td><td>11</td><td>332</td><td>1-15</td><td>MAYUR A MAKHESANA</td><td>BAGGA PRASHANT JAGDISHCHANDRA</td><td>KAUSHIK M PATEL</td><td>JOSE J. TAHA-TIJERINA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.mdpi.com/journal/lubricants</td><td>https://www.mdpi.com/2075-4442/11/8/332</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_104" OnClick="Download_Click"></a>
+                        </td><td>16</td><td>INVESTIGATION ON THE EFFECT OF PROCESS PARAMETERS AND OPTIMIZATION USING GRA UNDER BIODEGRADABLE OIL BASED MQL IN MACHINING</td><td>&nbsp;</td><td>INTERNATIONAL JOURNAL ON INTERACTIVE DESIGN AND MANUFACTURING</td><td>International</td><td>2.100</td><td>2.100</td><td>2023</td><td>July</td><td>Scopus,Web of Science,</td><td>1955-2505</td><td>-</td><td>-</td><td>1-12</td><td>MAYUR A MAKHESANA</td><td>BAGGA PRASHANT JAGDISHCHANDRA</td><td>MANOJ KUMAR AGRAWAL</td><td>JEMIN MANGUKIYA</td><td>ROHAN PATEL</td><td>KAUSHIK M. PATEL</td><td>YAGYA DUTTA DWIVEDI</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/12008</td><td>https://link.springer.com/article/10.1007/s12008-023-01459-6</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_105" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3430&amp;cid=383">Click Here</a>
+                        </td><td>17</td><td>EVALUATION OF PRESSURE, SURFACE CHARACTERISTICS, AND FLUID PROPERTIES EFFECT ON POOL BOILING HEAT TRANSFER OVER PLAIN AND EXTERNAL MICRO-FINNED CYLINDRICAL SURFACES</td><td>TSEA-23-1142_First_Page.pdf</td><td>ASME JOURNAL OF THERMAL SCIENCE AND ENGINEERING APPLICATIONS</td><td>International</td><td>2.100</td><td>2.100</td><td>2023</td><td>November</td><td>Scopus,Web of Science,</td><td>1948-5085</td><td>15</td><td>11</td><td>111011</td><td>BALKRUSHNA A SHAH</td><td>PARTH PATEL</td><td>VIKAS J LAKHERA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://asmedigitalcollection.asme.org/thermalscienceapplication</td><td>https://asmedigitalcollection.asme.org/thermalscienceapplication/article-abstract/15/11/111011/1166141/Evaluation-of-Pressure-Surface-Characteristics-and?redirectedFrom=fulltext</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_106" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3432&amp;cid=383">Click Here</a>
+                        </td><td>18</td><td>EFFECT OF WORKING FLUID, ORIENTATION, AND COOLING MODE ON THERMAL PERFORMANCE OF MINIATURE FLAT HEAT PIPE</td><td>PAPER_ASME_Jignesh.pdf</td><td>ASME JOURNAL OF THERMAL SCIENCE AND ENGINEERING APPLICATIONS</td><td>International</td><td>2.100</td><td>2.100</td><td>2023</td><td>September</td><td>Scopus,Web of Science,</td><td>1948-5085</td><td>15</td><td>9</td><td>091011</td><td>JIGNESHSINH RATHOD</td><td>LAKHERA VIKAS JANARDHANPRASAD</td><td>ATINDRA SHUKLA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://asmedigitalcollection.asme.org/thermalscienceapplication</td><td>https://asmedigitalcollection.asme.org/thermalscienceapplication/article-abstract/15/9/091011/1164321/Effect-of-Working-Fluid-Orientation-and-Cooling?redirectedFrom=fulltext</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_107" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3055&amp;cid=383">Click Here</a>
+                        </td><td>1</td><td>EXPERIMENTAL INVESTIGATION OF DIFFERENT NN APPROACHES FOR TOOL WEAR PREDICTION BASED ON VISION SYSTEM IN TURNING OF AISI 1045 STEEL</td><td>IJIDeM_October_2022.pdf</td><td>INTERNATIONAL JOURNAL ON INTERACTIVE DESIGN AND MANUFACTURING</td><td>International</td><td>2.200</td><td>2.200</td><td>2023</td><td>October</td><td>Scopus,</td><td>1955-2505</td><td>17</td><td>5</td><td>2565–2582</td><td>PRASHANT J. BAGGA</td><td>MAKHESANA MAYURKUMAR ASHWINBHAI</td><td>DHRUMIL L. BHAVSAR</td><td>JAYMIN JOSHI</td><td>KRUTIK JAIN</td><td>K. M. PATEL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/12008</td><td>https://link.springer.com/article/10.1007/s12008-022-01072-z</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_108" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3355&amp;cid=383">Click Here</a>
+                        </td><td>4</td><td>EXPERIMENTAL STUDY ON THE EFFECT OF GRAPHENE AND AL2O3 NANOFLUIDS IN A MINIATURE FLAT HEAT PIPE</td><td>Screenshot_2023-05-19_112833.png</td><td>THERMAL SCIENCE AND ENGINEERING PROGRESS</td><td>International</td><td>4.560</td><td>4.560</td><td>2023</td><td>July</td><td>Scopus,</td><td>Online ISSN: 2451-9049 Print ISSN: 2451-9057</td><td>42</td><td>VOLUME 42, 1 JULY 2023, 101905</td><td>VOLUME 42, 1 JULY 2023, 101905</td><td>JIGNESHSINH RATHOD</td><td>LAKHERA VIKAS JANARDHANPRASAD</td><td>ATINDRA SHUKLA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/thermal-science-and-engineering-progress</td><td>https://www.sciencedirect.com/science/article/pii/S2451904923002585?dgcid=author</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_109" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3385&amp;cid=383">Click Here</a>
+                        </td><td>6</td><td>EXPERIMENTAL INVESTIGATIONS AND EFFECT OF PARAMETERS ON FRICTION WELDED AISI 304 AND INVAR ALLOYS</td><td>AMPT_July_2023.pdf</td><td>ADVANCES IN MATERIALS AND PROCESSING TECHNOLOGIES</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>July</td><td>Scopus,</td><td>2374-0698</td><td>IN PRESS</td><td>IN PRESS</td><td>1-13</td><td>JIGNESH PATEL</td><td>BIMAL KUMAR MAWANDIYA</td><td>KAUSHIK PATEL</td><td>MAKHESANA MAYURKUMAR ASHWINBHAI</td><td>MANISH GUPTA</td><td>KARRAR HAZIM SALEM</td><td>SATBIR S. SEHGAL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.tandfonline.com/journals/tmpt20</td><td>https://www.tandfonline.com/doi/full/10.1080/2374068X.2023.2233855</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_110" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3400&amp;cid=383">Click Here</a>
+                        </td><td>7</td><td>INVESTIGATION ON THE EFFECT OF PROCESS PARAMETERS AND OPTIMIZATION USING GRA UNDER BIODEGRADABLE OIL BASED MQL IN MACHINING</td><td>IJIDeM_July_2023.pdf</td><td>INTERNATIONAL JOURNAL ON INTERACTIVE DESIGN AND MANUFACTURING</td><td>International</td><td>2.200</td><td>2.200</td><td>2023</td><td>July</td><td>Scopus,Web of Science,</td><td>1955-2505</td><td>IN PRESS</td><td>IN PRESS</td><td>1-12</td><td>MAKHESANA MAYURKUMAR ASHWINBHAI</td><td>P.J.BAGGA</td><td>M.K.AGRAWAL</td><td>JEMIN MANGUKIYA</td><td>ROHAN PATEL</td><td>K.M.PATEL</td><td>YAGYA DUTTA DWIVEDI</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/12008</td><td>https://link.springer.com/article/10.1007/s12008-023-01459-6</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_111" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3402&amp;cid=383">Click Here</a>
+                        </td><td>8</td><td>EFFECTS OF MACHINING PARAMETERS OF C45 STEEL APPLYING VEGETABLE LUBRICANT WITH MINIMUM QUANTITY COOLING LUBRICATION (MQCL)</td><td>Lubricants_August_2023.pdf</td><td>LUBRICANTS</td><td>International</td><td>3.500</td><td>3.500</td><td>2023</td><td>August</td><td>Scopus,Web of Science,</td><td>8</td><td>11</td><td>2075-4442</td><td>332</td><td>MAKHESANA MAYURKUMAR ASHWINBHAI</td><td>PRASHANT J. BAGGA</td><td>KAUSHIK M. PATEL</td><td>JOSE J. TAHA-TIJERINA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.mdpi.com/journal/lubricants</td><td>https://www.mdpi.com/2075-4442/11/8/332</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_112" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3629&amp;cid=383">Click Here</a>
+                        </td><td>56</td><td>PERFORMANCE ASSESSMENT OF NANO-AL2O3 ENRICHED COCONUT OIL AS A CUTTING FLUID IN MQL-ASSISTED MACHINING OF AISI-1040 STEEL</td><td>IJAMT_October_2023.pdf</td><td>INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY</td><td>International</td><td>3.400</td><td>3.400</td><td>2023</td><td>November</td><td>Scopus,Web of Science,</td><td>1433-3015</td><td>129</td><td>3-4</td><td>1689–1702</td><td>SAURABH TIWARI</td><td>M AMARNATH</td><td>MUNISH KUMAR GUPTA</td><td>MAKHESANA MAYURKUMAR ASHWINBHAI</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/170</td><td>https://link.springer.com/article/10.1007/s00170-023-12394-x#citeas</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_113" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3535&amp;cid=383">Click Here</a>
+                        </td><td>35</td><td>INFLUENCE OF CATALYST ON PRODUCER GAS QUALITY IN FIXED BED GASIFIER USING LIGNITE AND WOOD FEEDSTOCK</td><td>Journal_First_Page.pdf</td><td>JOURNAL OF FLUID FLOW, HEAT AND MASS TRANSFER</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>August</td><td>Scopus,</td><td>2368-6111</td><td>10</td><td>NA</td><td>51-61</td><td>UPADHYAY DARSHIT SHAILESHKUMAR</td><td>AMITA CHAUDHARY</td><td>RAJESH N PATEL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://jffhmt.avestia.com/</td><td>https://jffhmt.avestia.com/2023/PDF/008.pdf</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_114" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3552&amp;cid=383">Click Here</a>
+                        </td><td>42</td><td>A REVIEW OF PHYSICAL, CHEMICAL AND BIOLOGICAL SYNTHESIS METHODS OF  BIMETALLIC NANOPARTICLES AND APPLICATIONS IN SENSING, WATER TREATMENT,  BIOMEDICINE, CATALYSIS AND HYDROGEN STORAGE</td><td>Advances_in_Colloid_and_Interface_Science_Oct_2023.pdf</td><td>ADVANCES IN COLLOID AND INTERFACE SCIENCE</td><td>International</td><td>15.600</td><td>15.600</td><td>2023</td><td>October</td><td>Scopus,Web of Science,</td><td>1873-3727</td><td>321</td><td>1</td><td>103010</td><td>ANESU NYABADZA</td><td>EANNA MCCARTHY</td><td>MAKHESANA MAYURKUMAR ASHWINBHAI</td><td>SAEID HEIDARINASSAB</td><td>ANOUK PLOUZE</td><td>MERCEDES VAZQUEZ</td><td>DERMOT BRABAZON</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/advances-in-colloid-and-interface-science</td><td>https://www.sciencedirect.com/science/article/pii/S000186862300177X</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_115" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3705&amp;cid=383">Click Here</a>
+                        </td><td>64</td><td>COMPARISON OF MACHINING PERFORMANCE OF TI-6AL-4V UNDER DRY AND CRYOGENIC TECHNIQUES BASED ON TOOL WEAR, SURFACE ROUGHNESS, AND POWER CONSUMPTION</td><td>Lubricants_November_2023.pdf</td><td>LUBRICANTS</td><td>International</td><td>3.500</td><td>3.500</td><td>2023</td><td>November</td><td>Scopus,Web of Science,</td><td>2075-4442</td><td>11</td><td>11</td><td>493</td><td>DHVANIL CHAUHAN</td><td>MAKHESANA MAYURKUMAR ASHWINBHAI</td><td>R A RAHMAN RASHID</td><td>VIVEK JOSHI</td><td>NAVNEET KHANNA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.mdpi.com/journal/lubricants</td><td>https://www.mdpi.com/2075-4442/11/11/493</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_116" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3706&amp;cid=383">Click Here</a>
+                        </td><td>65</td><td>STRATEGIC APPROACH TOWARDS SUSTAINABILITY BY PROMOTING CIRCULAR ECONOMY-BASED MUNICIPAL SOLID WASTE MANAGEMENT SYSTEM- A REVIEW</td><td>First_Page.pdf</td><td>SUSTAINABLE CHEMISTRY AND PHARMACY</td><td>International</td><td>6.000</td><td>6.000</td><td>2024</td><td>February</td><td>Scopus,Web of Science,</td><td>2352-5541</td><td>37</td><td>NA</td><td>NA</td><td>SIDHARTHA SONDH</td><td>UPADHYAY DARSHIT SHAILESHKUMAR</td><td>SANJAY PATEL</td><td>RAJESH N. PATEL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/sustainable-chemistry-and-pharmacy</td><td>https://www.sciencedirect.com/science/article/pii/S2352554123003716</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_117" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3665&amp;cid=383">Click Here</a>
+                        </td><td>59</td><td>ADAPTIVE INTERFACE-MESH UN-REFINEMENT (AIMUR) BASED SHARP-INTERFACE LEVEL-SET-METHOD FOR TWO-PHASE FLOW</td><td>Sadhana-2023.jpg</td><td>SADHANA</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>July</td><td>Scopus,Web of Science,</td><td>0973-7677</td><td>48</td><td>1</td><td>22</td><td>KUNTAL PATEL</td><td>JAVED SHAIKH</td><td>ABSAR LAKDAWALA</td><td>ATUL SHARMA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/12046</td><td>https://link.springer.com/article/10.1007/s12046-022-02074-z</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_118" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3667&amp;cid=383">Click Here</a>
+                        </td><td>60</td><td>LATTICE BOLTZMANN METHOD BASED MODEL FOR FLUID FLOW SIMULATIONS</td><td>AIP.jpg</td><td>AIP CONFERENCE PROCEEDINGS</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>September</td><td>Scopus,Web of Science,</td><td>1551-7616</td><td>2872</td><td>1</td><td>6</td><td>TEJAS RAVA</td><td>VARUN SHARMA</td><td>ABSAR LAKDAWALA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://pubs.aip.org/aip/acp</td><td>https://pubs.aip.org/aip/acp/article-abstract/2872/1/030007/2913498/Lattice-Boltzmann-method-based-model-for-fluid?redirectedFrom=fulltext</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_119" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3668&amp;cid=383">Click Here</a>
+                        </td><td>61</td><td>LOW VOLTAGE SYSTEMS FOR ELECTRIC ATVS</td><td>IEEE-2023.jpg</td><td>IEEE XPLORE</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>October</td><td>Scopus,Web of Science,</td><td>10.1109/SEFET57834.2023.1024586</td><td>23746498</td><td>1</td><td>7</td><td>TRUSHTI SELARKA</td><td>HENIL GAJJAR</td><td>YUVRAJSINH CHAUHAN</td><td>P. N. KAPIL</td><td>DHAVAL B. SHAH</td><td>ABSAR M. LAKDAWALA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/Xplore/home.jsp</td><td>https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10245863</td><td>INSTITUTE OF TECHNOLOGY</td><td>MECHANICAL ENG.DEPT.(UG)</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_120" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3573&amp;cid=383">Click Here</a>
+                        </td><td>45</td><td>STUDY OF THE BEHAVIOUR OF FRP MATERIALS AND EPOXY ADHESIVES UNDER ELEVATED TEMPERATURE</td><td>First_page_of_paper_-_RPMS.pdf</td><td>MATERIALS TODAY: PROCEEDINGS</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>August</td><td>Scopus,</td><td>2214-7853</td><td>ARTICLE IN PRESS</td><td>ARTICLE IN PRESS</td><td>1-8</td><td>VIPUL J KALYANI</td><td>DIGESH D JOSHI</td><td>PARESH V PATEL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/materials-today-proceedings/about/insights#abstracting-and-indexing</td><td>https://www.sciencedirect.com/science/article/abs/pii/S2214785323042803</td><td>INSTITUTE OF TECHNOLOGY</td><td>PG-CIVIL (CASAD) ENG.DEPT.</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_121" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3574&amp;cid=383">Click Here</a>
+                        </td><td>46</td><td>EXPERIMENTAL STUDIES ON CONFINED COMPRESSIVE STRENGTH OF STAINLESS STEEL WIRE MESH (SSWM) WRAPPED CONCRETE COLUMNS</td><td>First_Page_of_Paper_-_RPMS.pdf</td><td>MATERIALS TODAY: PROCEEDINGS</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>August</td><td>Scopus,</td><td>2214-7853</td><td>ARTICLE IN PRESS</td><td>ARTICLE IN PRESS</td><td>1-7</td><td>PARESH V PATEL</td><td>DIGESH D JOSHI</td><td>RINKESH V MAKAWANA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.sciencedirect.com/journal/materials-today-proceedings</td><td>https://www.sciencedirect.com/science/article/abs/pii/S2214785323043407</td><td>INSTITUTE OF TECHNOLOGY</td><td>PG-CIVIL (CASAD) ENG.DEPT.</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_122" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3369&amp;cid=383">Click Here</a>
+                        </td><td>5</td><td>EXPERIMENTAL STUDIES TO EVALUATE TENSILE AND BOND STRENGTH OF STAINLESS-STEEL WIRE MESH (SSWM)</td><td>First_page_of_paper.pdf</td><td>FRATTURA ED INTEGRIT&#192; STRUTTURALE (FRACTURE AND STRUCTURAL INTEGRITY)</td><td>International</td><td>1.600</td><td>1.600</td><td>2023</td><td>July</td><td>Scopus,Web of Science,UGC/Care List,</td><td>1971-8993 (Online)</td><td>65</td><td>-</td><td>257-269</td><td>P. V. PATEL</td><td>D. D. JOSHI</td><td>R. V. MAKAWANA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.fracturae.com/index.php/fis</td><td>https://www.fracturae.com/index.php/fis/issue/view/318</td><td>INSTITUTE OF TECHNOLOGY</td><td>PG-CIVIL (CASAD) ENG.DEPT.</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_123" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3735&amp;cid=383">Click Here</a>
+                        </td><td>72</td><td>SECURING THE FUTURE: A COMPREHENSIVE REVIEW OF SECURITY CHALLENGES AND SOLUTIONS IN ADVANCED DRIVER ASSISTANCE SYSTEMS</td><td>Securing_the_Future_First_Page.pdf</td><td>IEEE ACCESS</td><td>International</td><td>3.476</td><td>3.900</td><td>2024</td><td>January</td><td>Scopus,Web of Science,EBSCO,UGC/Care List,</td><td>2169-3536</td><td>12</td><td>2024</td><td>643-678</td><td>UKANI VIJAYKUMAR SHANTILAL</td><td>PRIYANK THAKKAR</td><td>REBEKAH GEDDAM</td><td>KETAN KOTECHA</td><td>AJITH ABRAHAM</td><td>ARYAN ALPESH MEHTA</td><td>ALI ASGAR PADARIA</td><td>DWIJ JAYESH BAVISI</td><td>&nbsp;</td><td>&nbsp;</td><td>https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639</td><td>https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10373843</td><td>INSTITUTE OF TECHNOLOGY</td><td>PG-COMPUTER SCIENCE ENG.DEPT.</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_124" OnClick="Download_Click"></a>
+                        </td><td>52</td><td>DESIGN AND COGGING TORQUE REDUCTION OF RADIAL FLUX BRUSHLESS DC MOTORS WITH VARIED PERMANENT MAGNET POLE SHAPES FOR ELECTRIC VEHICLE APPLICATION</td><td>&nbsp;</td><td>TRANSACTIONS ON ENERGY SYSTEMS AND ENGINEERING APPLICATIONS</td><td>International</td><td>0.000</td><td>0.000</td><td>2023</td><td>September</td><td>Scopus,</td><td>2745-0120</td><td>4</td><td>2</td><td>2-13</td><td>TANUJ JHANKAL</td><td>AMIT N PATEL</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://revistas.utb.edu.co/tesea/about</td><td>https://revistas.utb.edu.co/tesea/article/view/535</td><td>INSTITUTE OF TECHNOLOGY</td><td>PG-ELECTRICAL (PEMD) ENG.DEPT.</td>
+			</tr><tr style="background-color:White;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_125" OnClick="Download_Click" href="https://apps.nirmauni.ac.in/rpms/pages/reports/frmshowproof.aspx?id=PB3403&amp;cid=383">Click Here</a>
+                        </td><td>9</td><td>DISCONTINUOUS GAIT FOR STATICALLY STABLE STAIR CLIMBING AND DESCENDING OF QUADRUPED ROBOT WITH HORIZONTAL BODY POSTURE</td><td>Discontinuous_gait_Australian_journal_page_1.pdf</td><td>AUSTRAILIAN JOURNAL OF MECHANICAL ENGINEERING</td><td>International</td><td>1.400</td><td>1.400</td><td>2024</td><td>January</td><td>Scopus,Web of Science,</td><td>2204-2253</td><td>22</td><td>1</td><td>79-94</td><td>DAVE JATINKUMAR MAHESHKUMAR</td><td>ASHISH MAJITHIYA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.tandfonline.com/journals/tmec20</td><td>https://www.tandfonline.com/doi/full/10.1080/14484846.2022.2066839</td><td>INSTITUTE OF TECHNOLOGY</td><td>PG-MECHANICAL (CAD/CAM)ENG.DEPT.</td>
+			</tr><tr style="background-color:#F7F7DE;">
+				<td align="center" valign="middle">
+                            &nbsp;&nbsp;&nbsp;
+                        
+                        <a id="ContentPlaceHolder1_GridView1_HyperLink1_126" OnClick="Download_Click"></a>
+                        </td><td>26</td><td>BAMBOO AS A SUSTAINABLE CROP FOR LAND RESTORATION IN INDIA: CHALLENGES AND OPPORTUNITIES</td><td>&nbsp;</td><td>ENVIRONMENT, DEVELOPMENT AND SUSTAINABILITY</td><td>International</td><td>4.900</td><td>4.900</td><td>2023</td><td>September</td><td>Scopus,Web of Science,</td><td>1387585X</td><td>3</td><td>3</td><td>1-33</td><td>ANKUSH D SAWARKAR</td><td>DEEPTI D SHRIMANKAR</td><td>SWATI C MANEKAR</td><td>MANISH KUMAR</td><td>PHANI KUMAR</td><td>LAL SINGH</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>https://www.springer.com/journal/10668</td><td>https://link.springer.com/article/10.1007/s10668-023-03911-9</td><td>INSTITUTE OF TECHNOLOGY UNDER NIRMA UNIVERSITY</td><td>COMPUTER SCIENCE &amp; ENG.DEPT.(UG)</td>
+			</tr>
+		</table>
+	</div>
+
+        </div>
+    
+</div>
