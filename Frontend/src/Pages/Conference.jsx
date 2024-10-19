@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import Navbar from "../Components/Navbar";
-import Papa from "papaparse";
+import * as XLSX from 'xlsx';
+import axios from 'axios';
 import LeftDrawer from "../Components/LeftDrawer";
 import {
 	exportConferences,
@@ -114,22 +115,34 @@ function Conference() {
 		link.remove(); // Clean up the link after the download
 	};
 
-	// const importHandler = () => {
-	// 	// Add your import file functionality here
-	// 	console.log("Import button clicked");
-	// };
+	const [successMessage, setSuccessMessage] = useState('');
+	
 	const importHandler = (event) => {
-		const file = event.target.files[0];  // Get the selected file
+		const file = event.target.files[0]; // Get the selected file
 		if (!file) return;
 	
-		// Use PapaParse to parse the file
-		Papa.parse(file, {
-			complete: (result) => {
-				const importedData = result.data;
-				console.log("Imported Data:", importedData);
-				// You can process the imported data here or pass it to the state
-			},
-			header: true,  // If your CSV has headers
+		// Create FormData object to send the file
+		const formData = new FormData();
+		formData.append('file', file);
+	
+		// Send the form data to the backend using Axios
+		axios.post('http://localhost:5000/api/upload-conference-data', formData, {
+			headers: {
+				'Content-Type': 'multipart/form-data'
+			}
+		})
+		.then(response => {
+			console.log('Data uploaded successfully:', response.data);
+			  // Show success message on the screen
+			  setSuccessMessage('File uploaded successfully!');
+
+			  // Hide message after 2 seconds
+			  setTimeout(() => {
+				setSuccessMessage(''); // Clear the message
+			  }, 2000);
+		})
+		.catch(error => {
+			console.error('Error uploading data:', error);
 		});
 	};
 	
@@ -211,6 +224,12 @@ function Conference() {
 						onChange={importHandler}
 						style={{ display: "none" }}  // Hide the file input field
 						/>
+						  {/* Display the success message */}
+						  {successMessage && (
+                          <div style={{ color: 'green', marginTop: '10px' }}>
+                             {successMessage}
+                             </div>
+                            )}
 					</div>
 
 					{/* Table Section */}
