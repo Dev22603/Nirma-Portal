@@ -40,3 +40,6 @@ export const exportConferences = (data) => {
 		responseType: "blob", // Important for downloading files
 	});
 };
+
+
+

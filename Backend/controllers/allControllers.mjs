@@ -1,4 +1,9 @@
 import pool from "../db/database.mjs";
+// import { handleFileUpload } from "./pipelineControllers.mjs";
+import { fileURLToPath } from 'url';
+import path from "path";
+
+import XLSX from "xlsx";
 
 const getFilteredData = async (req, res) => {
 	try {
@@ -125,4 +130,7 @@ const getColumns = async (req, res) => {
 	}
 };
 
-export { getFilteredData, getColumns };
+
+
+
+export { getFilteredData, getColumns};

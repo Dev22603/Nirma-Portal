@@ -7,136 +7,69 @@ import XLSX from "xlsx";
 // const Papa = require("papaparse");
 
 
-const storage = multer.diskStorage({
-    destination: function (req, file, cb) {
-        cb(null, "./uploads/Conference Papers"); // Destination folder for file uploads
-    },
-    filename: function (req, file, cb) {
-        cb(null, `${Date.now()}-${file.originalname}`); // Rename file with timestamp
-    },
-});
+import { fileURLToPath } from 'url';
 
-const fileFilter = (req, file, cb) => {
-    const fileTypes = /xls|xlsx/;
-    const extname = fileTypes.test(
-        path.extname(file.originalname).toLowerCase()
-    );
-    const mimetype =
-        file.mimetype === "application/vnd.ms-excel" ||
-        file.mimetype ===
-            "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"; // Include MIME type for .xlsx
+const handleFileUpload = async (dataRows) => {
+    try {
+      console.log(dataRows[0]);
+      console.log("sss");
+      // const dataRows = rows.slice(1);  // This will exclude the first row
 
-    if (mimetype && extname) {
-        cb(null, true);
-    } else {
-        cb(new Error("Only .xls or .xlsx files are allowed!"), false);
+      for (const row of dataRows) {
+        await mergeRowIntoDatabase(row);
+      }
+      return { message: 'Data successfully merged into the database' };
+    } catch (error) {
+      console.error("Error processing file data:", error);
+      throw new Error('Error processing the uploaded data');
     }
-};
+  };
 
-const upload = multer({
-    storage: storage,
-    limits: { fileSize: 10 * 1024 * 1024 }, // Limit file size to 10MB
-    fileFilter: fileFilter,
-}).single("file");
+ 
+  const mergeRowIntoDatabase = async (row) => {
+   
+    const [
+      downloadFile, id, paperTitle, fileName, journalName, journalType,
+      clarivateImpactFactor, journalImpactFactor, yearOfPublication, monthOfPublication,
+      indexIn, issnNo, volumeNo, issueNo, pageNo, author1, author2, author3, author4,
+      author5, author6, author7, author8, author9, author10, websiteJournalLink, 
+      articleLink, instituteName, departmentName
+    ] = row;
 
-// Extend your uploadFile function
-const uploadFile = (req, res) => {
-    upload(req, res, async function (err) {
-        if (err instanceof multer.MulterError) {
-            return res.status(500).json({ message: `Multer error: ${err.message}` });
-        } else if (err) {
-            return res.status(400).json({ message: `Error: ${err.message}` });
-        }
+      console.log("id");
+     console.log(id);
+  
+    try {
+      // Check if downloadFile is null or empty, and handle accordingly
+      const downloadFileValue = downloadFile ? downloadFile : null;
+  
+      // Insert new record into the table
+      await pool.query(
+        `INSERT INTO "Conference_Paper" (
+           "id", "Impact Factor (Clarivate Analytics)", "Impact Factor (Journal)", 
+           "Year of Publication", "JournalType", "Month of Publication", "IndexIn", 
+           "ISSN No", "Voume No", "Issue No", "Page No", "Author1", "Author2", "Author3", 
+           "Author4", "Author5", "Author6", "Author7", "Author8", "Author9", "Author10", 
+           "WebsiteJournalLink", "ArticleLink", "Institute Name", "Download File", 
+           "Department Name", "Paper Title", "FileName", "Name of Journal"
+         ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, 
+           $18, $19, $20, $21, $22, $23, $24, $25, $26, $27, $28, $29)`,
+        [
+          id, clarivateImpactFactor, journalImpactFactor, yearOfPublication, journalType,
+          monthOfPublication, indexIn, issnNo, volumeNo, issueNo, pageNo, author1,
+          author2, author3, author4, author5, author6, author7, author8, author9,
+          author10, websiteJournalLink, articleLink, instituteName, downloadFileValue,
+          departmentName, paperTitle, fileName, journalName
+        ]
+      );
+    } catch (error) {
+      console.error("Error merging data:", error);
+      throw new Error("Error while merging data");
+    }
+  };
+  
 
-        if (!req.file) {
-            return res.status(400).json({ message: "No file uploaded" });
-        }
 
-        // Proceed with XLSX parsing and inserting into the database
-        const filePath = req.file.path;
-        
-        try {
-            const workbook = XLSX.readFile(filePath); // Read the .xlsx file
-            const sheetName = workbook.SheetNames[0]; // Get the first sheet
-            const sheetData = XLSX.utils.sheet_to_json(workbook.Sheets[sheetName]); // Convert sheet to JSON
-
-            // Insert data into the database
-            for (const row of sheetData) {
-                const query = `
-                    INSERT INTO Conference_Paper (
-                        "Impact Factor (Clarivate Analytics)",
-                        "Impact Factor (Journal)",
-                        "Year of Publication",
-                        "JournalType",
-                        "Month of Publication",
-                        "IndexIn",
-                        "ISSN No",
-                        "Voume No",
-                        "Issue No",
-                        "Page No",
-                        "Author1",
-                        "Author2",
-                        "Author3",
-                        "Author4",
-                        "Author5",
-                        "Author6",
-                        "Author7",
-                        "Author8",
-                        "Author9",
-                        "Author10",
-                        "WebsiteJournalLink",
-                        "ArticleLink",
-                        "Institute Name",
-                        "Download File",
-                        "Department Name",
-                        "Paper Title",
-                        "FileName",
-                        "Name of Journal"
-                    ) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18, $19, $20, $21, $22, $23, $24, $25, $26, $27, $28)
-                `;
-                
-                await pool.query(query, [
-                    row['Impact Factor (Clarivate Analytics)'],
-                    row['Impact Factor (Journal)'],
-                    row['Year of Publication'],
-                    row['JournalType'],
-                    row['Month of Publication'],
-                    row['IndexIn'],
-                    row['ISSN No'],
-                    row['Voume No'],
-                    row['Issue No'],
-                    row['Page No'],
-                    row['Author1'],
-                    row['Author2'],
-                    row['Author3'],
-                    row['Author4'],
-                    row['Author5'],
-                    row['Author6'],
-                    row['Author7'],
-                    row['Author8'],
-                    row['Author9'],
-                    row['Author10'],
-                    row['WebsiteJournalLink'],
-                    row['ArticleLink'],
-                    row['Institute Name'],
-                    row['Download File'],
-                    row['Department Name'],
-                    row['Paper Title'],
-                    row['FileName'],
-                    row['Name of Journal']
-                ]);
-            }
-
-            // Clean up uploaded file
-            fs.unlinkSync(filePath);
-
-            res.status(200).json({ message: "File uploaded and data inserted successfully" });
-        } catch (dbError) {
-            console.error(dbError);
-            return res.status(500).json({ message: "Error inserting data into the database" });
-        }
-    });
-};
 
 const exportData = async (req, res) => {
     const { filters, columns } = req.body;
@@ -275,4 +208,56 @@ const exportData = async (req, res) => {
         });
     }
 };
-export { uploadFile, exportData };
+
+const uploadConferenceData = async(req, res) => {
+
+    console.log("shyam");
+   //  console.log(req.file);
+
+   if (!req.file) {
+     return res.status(400).json({ message: 'No file uploaded' });
+   }
+
+   console.log("Uploaded file details:", req.file);
+ 
+   try {
+    
+     const __filename = fileURLToPath(import.meta.url);
+     const __dirname = path.dirname(__filename);
+         
+        console.log("__filename",__filename);
+        console.log("__dirname",__dirname);
+    //  const filePath = path.join(__dirname, req.file.path);
+    const filePath = path.join(__dirname, '..', 'uploads', 'Conference_Papers', req.file.filename);
+    // const filePath = path.join(__dirname, '..', '..', 'uploads', 'Conference_Papers', req.file.filename);
+
+     console.log("file path",filePath);
+ 
+     // Read the Excel file
+     const workbook = XLSX.readFile(filePath);
+     const firstSheetName = workbook.SheetNames[0];
+     const worksheet = workbook.Sheets[firstSheetName];
+ 
+     // Parse the Excel data into JSON
+     const importedData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
+ 
+     console.log('Parsed Data:', importedData);
+ 
+     if (!importedData || !importedData.length) {
+       return res.status(400).json({ message: 'No data received from the file' });
+     }
+ 
+     // Proceed with merging the data into the database
+     const dataRows = importedData.slice(1);
+     // const result = await handleFileUpload(importedData);
+     const result = await handleFileUpload(dataRows);
+     res.status(200).json(result);
+ 
+   } catch (error) {
+     console.error("Error processing file:", error);
+     res.status(500).json({ message: 'An error occurred while uploading data' });
+   }
+ };
+
+
+export {exportData,uploadConferenceData};
