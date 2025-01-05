@@ -1,6 +1,6 @@
 import { sql } from "@vercel/postgres";
 import {
-	pool,
+	// pool,
 	ensureDatabaseExists,
 	ensureTableExists,
 	switchPoolToDb,
