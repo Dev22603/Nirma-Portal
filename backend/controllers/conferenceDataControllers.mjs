@@ -3,7 +3,7 @@ import { parse } from "csv-parse"; // If you're dealing with CSV uploads
 import fs from "fs";
 import path from "path";
 import {
-	// pool,
+	pool,
 	ensureDatabaseExists,
 	ensureTableExists,
 	switchPoolToDb,
