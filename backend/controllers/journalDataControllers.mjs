@@ -1,3 +1,4 @@
+import { sql } from "@vercel/postgres";
 import {
 	pool,
 	ensureDatabaseExists,
@@ -31,7 +32,7 @@ const getJournalData = async (req, res) => {
 			? parseFloat(impactFactorMaximum)
 			: null;
 
-		let query = `SELECT DISTINCT ON (LOWER("Paper Title")) * FROM public."Journal_Paper" WHERE 1=1`;
+		let query = sql`SELECT DISTINCT ON (LOWER("Paper Title")) * FROM public."Journal_Paper" WHERE 1=1`;
 		const queryParams = [];
 
 		const AuthorName = authorName ? authorName.toUpperCase() : null;
@@ -115,9 +116,7 @@ const getJournalData = async (req, res) => {
 const getJournalColumns = async (req, res) => {
 	try {
 		// Query to fetch column names from PostgreSQL information schema
-		const query = `
-        SELECT * FROM public."Journal_Paper" LIMIT 1;
-      `;
+		const query = sql`SELECT * FROM public."Journal_Paper" LIMIT 1;`;
 		const dbName = "NirmaDB";
 		const tableName = "Journal_Paper";
 		await ensureDatabaseExists(dbName);
@@ -144,7 +143,7 @@ const getJournalColumns = async (req, res) => {
 const getJournalDashboard = async (req, res) => {
 	try {
 		// Query for impact factor distribution
-		const impactFactorQuery = `
+		const impactFactorQuery = sql`
             SELECT 
                 SUM(CASE WHEN "Impact Factor (Clarivate Analytics)"=0 or "Impact Factor (Clarivate Analytics)" IS NULL THEN 1 ELSE 0 END) AS noIF,
                 SUM(CASE WHEN "Impact Factor (Clarivate Analytics)" < 2 THEN 1 ELSE 0 END) AS lessThan2,
@@ -176,7 +175,7 @@ const getJournalDashboard = async (req, res) => {
 		};
 
 		// Query for month-wise publication count
-		const monthWiseQuery = `
+		const monthWiseQuery = sql`
             SELECT 
                 "Year of Publication", 
                 "Month of Publication", 

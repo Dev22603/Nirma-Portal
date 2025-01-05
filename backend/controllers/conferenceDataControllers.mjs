@@ -9,6 +9,8 @@ import {
 	switchPoolToDb,
 } from "../db/databaseFinal.mjs";
 
+import { sql,db } from "@vercel/postgres";
+
 function formatDate(dateString) {
 	const date = new Date(dateString);
 	const day = String(date.getDate()).padStart(2, "0");
@@ -22,7 +24,7 @@ const getFilteredConferenceData = async (req, res) => {
 	console.log({ fromDate, toDate, authorName });
 	console.log("dddddd");
 
-	let query = 'SELECT * FROM public."Conference_Paper" WHERE 1=1';
+	let query = sql`SELECT * FROM public."Conference_Paper" WHERE 1=1`;
 	const queryParams = [];
 
 	// if (fromDate) {
@@ -110,9 +112,7 @@ const getConferenceColumns = async (req, res) => {
 
 	try {
 		// Query to fetch column names from PostgreSQL information schema
-		const query = `
-        SELECT * FROM public."Conference_Paper" LIMIT 1;
-      `;
+		const query = sql`SELECT * FROM public."Conference_Paper" LIMIT 1;`;
 		const dbName = "NirmaDB";
 		const tableName = "Conference_Paper";
 		await ensureDatabaseExists(dbName);

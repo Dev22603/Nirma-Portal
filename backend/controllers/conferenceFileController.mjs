@@ -10,6 +10,7 @@ import multer from "multer";
 import path from "path";
 
 import moment from "moment";
+import { sql ,db} from "@vercel/postgres";
 
 // Multer storage settings
 const storage = multer.diskStorage({
@@ -46,7 +47,7 @@ const upload = multer({
 
 // Helper function to fetch table headers from the database
 const getTableHeaders = async (client, tableName) => {
-	const query = `SELECT * FROM public."${tableName}" LIMIT 1;`;
+	const query = sql`SELECT * FROM public."${tableName}" LIMIT 1;`;
 	const result = await client.query(query);
 
 	// Extract column names from the query result
@@ -185,7 +186,7 @@ const uploadFileConfernce = (req, res) => {
 				row[fromDateIndex] = parseDate(row[fromDateIndex]);
 				row[toDateIndex] = parseDate(row[toDateIndex]);
 
-				const checkDuplicateQuery = `SELECT * FROM "${tableName}" WHERE "Paper Title" = $1`;
+				const checkDuplicateQuery = sql`SELECT * FROM "${tableName}" WHERE "Paper Title" = $1`;
 				const result = await client.query(checkDuplicateQuery, [
 					paperTitle,
 				]);
@@ -241,7 +242,7 @@ const exportFileConference = async (req, res) => {
 	const AuthorName = authorName ? authorName.toUpperCase() : null;
 
 	try {
-		let query = `SELECT DISTINCT ON (LOWER("Paper Title")) ${columns
+		let query = sql`SELECT DISTINCT ON (LOWER("Paper Title")) ${columns
 			.map((col) => `"${col}"`)
 			.join(", ")} FROM public."Conference_Paper" WHERE 1=1`;
 		const queryParams = [];

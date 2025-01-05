@@ -8,6 +8,7 @@ import {
 	ensureTableExists,
 	switchPoolToDb,
 } from "../db/databaseFinal.mjs";
+import { sql } from "@vercel/postgres";
 
 // Multer configuration
 const storage = multer.diskStorage({
@@ -40,7 +41,7 @@ const upload = multer({
 
 // Helper functions
 const getTableHeaders = async (client, tableName) => {
-	const query = `SELECT * FROM public."${tableName}" LIMIT 1;`;
+	const query = sql`SELECT * FROM public."${tableName}" LIMIT 1;`;
 	const result = await client.query(query);
 	return result.fields.map((column) => column.name);
 };
@@ -113,7 +114,7 @@ const uploadFileJournal = async (req, res) => {
 				const paperTitle = row[paperTitleIndex];
 				// console.log(paperTitle);
 
-				const checkDuplicateQuery = `SELECT "Paper Title" FROM "${tableName}" WHERE REPLACE("Paper Title", ' ', '') = REPLACE($1, ' ', '');`; //This is used to check if the Paper Title without spaces is same or not
+				const checkDuplicateQuery = sql`SELECT "Paper Title" FROM "${tableName}" WHERE REPLACE("Paper Title", ' ', '') = REPLACE($1, ' ', '');`; //This is used to check if the Paper Title without spaces is same or not
 				// const checkDuplicateQuery = `SELECT "Paper Title" FROM "${tableName}" WHERE "Paper Title" = $1`;
 				const result = await client.query(checkDuplicateQuery, [
 					paperTitle,
@@ -168,7 +169,7 @@ const exportFileJournal = async (req, res) => {
 		: null;
 
 	try {
-		let query = `SELECT DISTINCT ON (LOWER("Paper Title")) ${columns
+		let query = sql`SELECT DISTINCT ON (LOWER("Paper Title")) ${columns
 			.map((col) => `"${col}"`)
 			.join(", ")} FROM public."Journal_Paper" WHERE 1=1`;
 		const queryParams = [];
