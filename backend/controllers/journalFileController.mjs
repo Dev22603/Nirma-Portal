@@ -87,7 +87,7 @@ const uploadFileJournal = async (req, res) => {
 				return row.length !== 0;
 			});
 		}
-		const dbName = "NirmaDB";
+		const dbName = "neondb";
 		const tableName = "Journal_Paper";
 
 		try {
