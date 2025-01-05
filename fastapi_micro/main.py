@@ -115,3 +115,6 @@ async def get_publications(author_request: AuthorRequest, year: Optional[int] = 
     formatted_publications = [format_publication(pub) for pub in publications]
     return formatted_publications
 
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
