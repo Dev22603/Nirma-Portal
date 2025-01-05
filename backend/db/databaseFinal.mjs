@@ -149,124 +149,124 @@
 
 
 
-import { Client } from "@vercel/postgres"; // Use Vercel's PostgreSQL client
+import { sql } from "@vercel/postgres";
 import dotenv from "dotenv";
 
 dotenv.config();
 
-// Ensure that the database exists
+/**
+ * Ensure the database exists by checking its existence and creating it if necessary.
+ * @param {string} dbName - The name of the database to ensure.
+ */
 const ensureDatabaseExists = async (dbName) => {
-    const client = new Client();
-    try {
-        await client.connect();
-        const result = await client.query(
-            `SELECT EXISTS(SELECT datname FROM pg_catalog.pg_database WHERE lower(datname) = lower($1));`,
-            [dbName]
-        );
-        const databaseExists = result.rows[0].exists;
+  try {
+    // Check if the database exists
+    const result = await sql`SELECT EXISTS(SELECT datname FROM pg_catalog.pg_database WHERE lower(datname) = lower(${dbName}));`;
+    const databaseExists = result.rows[0].exists;
 
-        console.log(`Database ${dbName} exists: ${databaseExists}`);
-        if (!databaseExists) {
-            // Create the database
-            await client.query(`CREATE DATABASE "${dbName}";`);
-        }
-    } catch (error) {
-        console.error("Error ensuring database exists:", error);
-    } finally {
-        await client.end();
+    if (!databaseExists) {
+      console.log(`Database ${dbName} does not exist. Creating...`);
+      await sql`CREATE DATABASE ${sql.raw(dbName)};`;
+      console.log(`Database ${dbName} created.`);
+    } else {
+      console.log(`Database ${dbName} already exists.`);
     }
+  } catch (error) {
+    console.error("Error ensuring database exists:", error);
+    throw error;
+  }
 };
 
-// Ensure that the table exists in the specified database
-const ensureTableExists = async (dbName, tableName) => {
-    const client = new Client({ database: dbName });
-    try {
-        await client.connect();
+/**
+ * Ensure the specified table exists in the database.
+ * @param {string} tableName - The name of the table to ensure.
+ */
+const ensureTableExists = async (tableName) => {
+  try {
+    // Check if the table exists
+    const result = await sql`SELECT EXISTS (SELECT FROM pg_tables WHERE schemaname = 'public' AND tablename = ${tableName});`;
+    const tableExists = result.rows[0].exists;
 
-        const result = await client.query(
-            `SELECT EXISTS (
-                SELECT FROM pg_tables WHERE schemaname = 'public' AND tablename = $1
-            )`,
-            [tableName]
-        );
+    if (!tableExists) {
+      console.log(`Table ${tableName} does not exist. Creating...`);
 
-        const queryJournal_Paper = `
-            CREATE TABLE "${tableName}" (
-                "Download File" TEXT,
-                "id" SERIAL,
-                "Paper Title" TEXT,
-                "FileName" TEXT,
-                "Name of Journal" TEXT,
-                "JournalType" TEXT,
-                "Impact Factor (Clarivate Analytics)" NUMERIC,
-                "Impact Factor (Journal)" NUMERIC,
-                "Year of Publication" INTEGER,
-                "Month of Publication" TEXT,
-                "IndexIn" TEXT,
-                "ISSN No" TEXT,
-                "Voume No" TEXT,
-                "Issue No" TEXT,
-                "Page No" TEXT,
-                "Author1" TEXT,
-                "Author2" TEXT,
-                "Author3" TEXT,
-                "Author4" TEXT,
-                "Author5" TEXT,
-                "Author6" TEXT,
-                "Author7" TEXT,
-                "Author8" TEXT,
-                "Author9" TEXT,
-                "Author10" TEXT,
-                "WebsiteJournalLink" TEXT,
-                "ArticleLink" TEXT,
-                "Institute Name" TEXT,
-                "Department Name" TEXT
-            );
+      let createTableQuery = "";
+      if (tableName.toLowerCase().includes("journal")) {
+        createTableQuery = `
+          CREATE TABLE "${tableName}" (
+            "Download File" TEXT,
+            "id" SERIAL,
+            "Paper Title" TEXT,
+            "FileName" TEXT,
+            "Name of Journal" TEXT,
+            "JournalType" TEXT,
+            "Impact Factor (Clarivate Analytics)" NUMERIC,
+            "Impact Factor (Journal)" NUMERIC,
+            "Year of Publication" INTEGER,
+            "Month of Publication" TEXT,
+            "IndexIn" TEXT,
+            "ISSN No" TEXT,
+            "Voume No" TEXT,
+            "Issue No" TEXT,
+            "Page No" TEXT,
+            "Author1" TEXT,
+            "Author2" TEXT,
+            "Author3" TEXT,
+            "Author4" TEXT,
+            "Author5" TEXT,
+            "Author6" TEXT,
+            "Author7" TEXT,
+            "Author8" TEXT,
+            "Author9" TEXT,
+            "Author10" TEXT,
+            "WebsiteJournalLink" TEXT,
+            "ArticleLink" TEXT,
+            "Institute Name" TEXT,
+            "Department Name" TEXT
+          );
         `;
-        const queryConference_Paper = `
-            CREATE TABLE "${tableName}" (
-                "id" SERIAL,
-                "Name of Conference" TEXT,
-                "Conference Type" TEXT,
-                "Paper Title" TEXT,
-                "From Date" DATE,
-                "To Date" DATE,
-                "Author1" TEXT,
-                "Author2" TEXT,
-                "Author3" TEXT,
-                "Author4" TEXT,
-                "Author5" TEXT,
-                "Author6" TEXT,
-                "Author7" TEXT,
-                "Author8" TEXT,
-                "Author9" TEXT,
-                "Author10" TEXT,
-                "InstName" TEXT,
-                "DeptCode" TEXT
-            );
+      } else if (tableName.toLowerCase().includes("conference")) {
+        createTableQuery = `
+          CREATE TABLE "${tableName}" (
+            "id" SERIAL,
+            "Name of Conference" TEXT,
+            "Conference Type" TEXT,
+            "Paper Title" TEXT,
+            "From Date" DATE,
+            "To Date" DATE,
+            "Author1" TEXT,
+            "Author2" TEXT,
+            "Author3" TEXT,
+            "Author4" TEXT,
+            "Author5" TEXT,
+            "Author6" TEXT,
+            "Author7" TEXT,
+            "Author8" TEXT,
+            "Author9" TEXT,
+            "Author10" TEXT,
+            "InstName" TEXT,
+            "DeptCode" TEXT
+          );
         `;
+      }
 
-        let createTableQuery = "";
-        if (tableName.toLowerCase().includes("journal")) {
-            createTableQuery = queryJournal_Paper;
-        } else if (tableName.toLowerCase().includes("conference")) {
-            createTableQuery = queryConference_Paper;
-        }
-
-        if (!result.rows[0].exists) {
-            await client.query(createTableQuery);
-            console.log(`Table "${tableName}" created successfully.`);
-        } else {
-            console.log(`Table "${tableName}" already exists.`);
-        }
-    } catch (error) {
-        console.error("Error ensuring table exists:", error);
-    } finally {
-        await client.end();
+      if (createTableQuery) {
+        await sql`${sql.raw(createTableQuery)}`;
+        console.log(`Table ${tableName} created.`);
+      } else {
+        console.error("Unknown table type for:", tableName);
+      }
+    } else {
+      console.log(`Table ${tableName} already exists.`);
     }
+  } catch (error) {
+    console.error("Error ensuring table exists:", error);
+    throw error;
+  }
 };
 
 export { ensureDatabaseExists, ensureTableExists };
+
 // DATABASE_URL=your_vercel_database_url
 // DATABASE_URL_UNPOOLED=your_vercel_unpooled_database_url
 // PGHOST=your_database_host
