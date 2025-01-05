@@ -64,7 +64,7 @@ const Faculty = () => {
         setPublications(null);
 
         try {
-            const response = await fetch(`http://127.0.0.1:8000/author/profile`, {
+            const response = await fetch(`https://data-population-faculty-search.vercel.app/author/profile`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
